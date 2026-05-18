@@ -1,0 +1,22 @@
+- [Kerkour - Rust async/await and what is a runtime ](https://kerkour.com/rust-async-await-what-is-a-runtime)
+- [Without Boats - Why Async Rust](https://without.boats/blog/why-async-rust/)
+- [Making the Tokio Runtime 10x Faster](https://tokio.rs/blog/2019-10-scheduler)
+- [Alice Ryhl - Async: What is Blocking?](https://ryhl.io/blog/async-what-is-blocking/) -   Blog on cooperative scheduling in rust async runtime
+- https://stackoverflow.com/questions/40053550/the-compiler-suggests-i-add-a-static-lifetime-because-the-parameter-type-may-no
+- https://stackoverflow.com/a/40053651 explanation for the above
+- https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md
+- https://stackoverflow.com/questions/41081240/idiomatic-callbacks-in-rust
+- https://rustmagazine.org/issue-4/how-tokio-schedule-tasks/
+- [Tokio Internals](https://cafbit.com/post/tokio_internals/)
+- [Kerkour - Cooperative vs Preemptive Scheduling](https://kerkour.com/cooperative-vs-preemptive-scheduling)
+- [Kerkour - Rust async/await and what is a runtime ](https://kerkour.com/rust-async-await-what-is-a-runtime)
+- [Without Boats - Why Async Rust](https://without.boats/blog/why-async-rust/)
+- [Making the Tokio Runtime 10x Faster](https://tokio.rs/blog/2019-10-scheduler)
+- [Alice Ryhl - Async: What is Blocking?](https://ryhl.io/blog/async-what-is-blocking/) -   on cooperative scheduling in rust async runtime
+- [Answer in thread](https://stackoverflow.com/a/40053651) explanation for the above
+- [Common rust lifetime misconceptions](https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md)
+- [Idiomatic callbacks in rust](https://stackoverflow.com/questions/41081240/idiomatic-callbacks-in-rust)
+- Rust zero-cost abstraction vs SIMDI [turbopuffer.com](https://turbopuffer.com/blog/zero-cost)
+- `std::pin`, what is it [doc.rust-lang.org](https://doc.rust-lang.org/std/pin/index.html#what-is-moving)
+- How much Rust's bound checking actually costs [readyset.io](https://readyset.io/blog/bounds-checks)
+- Is coding in rust as bad as CPP [quick-lint-js.com](https://quick-lint-js.com/blog/cpp-vs-rust-build-times/)

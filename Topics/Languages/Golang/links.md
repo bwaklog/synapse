@@ -1,0 +1,30 @@
+- https://go.dev/blog/jsonv2-exp
+- how the new green tea GC works?
+- how does go lang garbage collection work
+- https://bwoff.medium.com/understanding-gos-garbage-collection-415a19cc485c
+- https://rakyll.org/scheduler/
+- [Go sync.Pool and the Mechanism behind it](https://victoriametrics.com/blog/go-sync-pool/)
+- [Golang internals resources](https://github.com/emluque/golang-internals-resources)
+- [How Goroutines work](https://nindalf.com/posts/how-goroutines-work/#:~:text=At%20any%20point%20of%20time,goroutines%20on%20the%20same%20thread)
+- [Goroutines vs threads](https://agrim123.github.io/posts/goroutines-vs-threads.html)
+- [Golang Internals and Symbol Recovery](https://cloud.google.com/blog/topics/threat-intelligence/golang-internals-symbol-recovery)
+- [Exploring depths of golang channels](https://medium.com/@ravikumar19997/exploring-the-depths-of-golang-channels-a-comprehensive-guide-53e1a97cafe6)
+- [Data Race patterns in Go - uber](https://www.uber.com/en-IN/blog/data-race-patterns-in-go/)
+- [Video - Understanding the go runtime](https://www.youtube.com/watch?v=YpRNFNFaLGY&t=459s)
+- [Video - Understanding Go Channels, Kavya Joshi](https://www.youtube.com/watch?v=KBZlN0izeiY)
+- [Go Channel Implementation](http://dmitryvorobev.blogspot.com/2016/08/golang-channels-implementation.html)
+- [sync pool working](https://victoriametrics.com/blog/go-sync-pool/)
+- [Golang internals resources](https://github.com/emluque/golang-internals-resources)
+- [How Goroutines work](https://nindalf.com/posts/how-goroutines-work/#:~:text=At%20any%20point%20of%20time,goroutines%20on%20the%20same%20thread)
+- [Goroutines vs threads](https://agrim123.github.io/posts/goroutines-vs-threads.html)
+- [Golang Internals and Symbol Recovery](https://cloud.google.com/blog/topics/threat-intelligence/golang-internals-symbol-recovery)
+- [Exploring depths of golang channels](https://medium.com/@ravikumar19997/exploring-the-depths-of-golang-channels-a-comprehensive-guide-53e1a97cafe6)
+- [Data Race patterns in Go - uber](https://www.uber.com/en-IN/blog/data-race-patterns-in-go/)
+- [Video - Understanding the go runtime](https://www.youtube.com/watch?v=YpRNFNFaLGY&t=459s)
+- [Video - Understanding Go Channels, Kavya Joshi](https://www.youtube.com/watch?v=KBZlN0izeiY)
+- [Go Channel Implementation](http://dmitryvorobev.blogspot.com/2016/08/golang-channels-implementation.html)
+- https://victoriametrics.com/blog/categories/go-@-victoriametrics/
+- https://oldwww.just.edu.jo/~amerb/teaching/1-10-11/cs728/3.pdf
+- https://www.allthingsdistributed.com/2023/07/building-and-operating-a-pretty-big-storage-system.html
+- Rust threads on the GPU [vectorware.com](https://www.vectorware.com/blog/threads-on-gpu/)
+- Polymorphic, Recursive Interfaces Using Go Generics [multithreaded.stitchfix.com](https://multithreaded.stitchfix.com/blog/2023/02/01/go-polymorphic-interfaces/)

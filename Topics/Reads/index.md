@@ -1,0 +1,1 @@
+- The Soul of Maintaining a New Machine [books.worksinprogress.co](https://books.worksinprogress.co/book/maintenance-of-everything/communities-of-practice/the-soul-of-maintaining-a-new-machine/3)

@@ -1,0 +1,8 @@
+- https://eatonphil.com
+- https://blog.pragmaticengineer.com
+- https://transactional.blog
+- https://simonwillison.net/
+- https://www.openmymind.net/
+- https://seiya.me/
+- https://penberg.org/
+- https://kerkour.com/blog

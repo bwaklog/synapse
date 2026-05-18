@@ -1,0 +1,5 @@
+- https://frostzt.com/blog/redis-valkey-replication-internals
+- https://github.com/pgcentralfoundation/pgrx
+- https://github.com/quickwit-oss/tantivy
+- BM25 index
+- https://github.com/paradedb/paradedb

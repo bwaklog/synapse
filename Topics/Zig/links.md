@@ -1,0 +1,7 @@
+- `std.Io` overview [ziggit.dev](https://ziggit.dev/t/std-io-overview/14994)
+- Zig File I/O (`std.Io`) [codeberg.org/jmcaine](https://codeberg.org/jmcaine/zig-notes/src/branch/main/file-io.md)
+- File I/O basics (0.16) [ziggit.dev](https://ziggit.dev/t/file-i-o-basics-0-16/14968)
+- [zig.guide](https://zig.guide/) (only upto 0.15.2 for now) 
+- Learning zig (updated up till 2025) [openmymind.net]([https://www.openmymind.net/](https://www.openmymind.net/learning_zig/#))
+- Zig book [pedropark99.github.io/zig-book](https://pedropark99.github.io/zig-book/Chapters/01-zig-weird.html)
+- Static Allocation with Zig - _Introducting kv, a statically allocated key/value server_ [nickmonad.blog](https://nickmonad.blog/2025/static-allocation-with-zig-kv/)

@@ -1,0 +1,11 @@
+- [CSC2426F Fundamentals of Cryptography](https://www.cs.toronto.edu/~rackoff/2426f20/Cryptonotes.html)  Fall 2020 Course Notes
+- [CSE 526: Cryptography](https://courses.cs.washington.edu/courses/cse526/20sp/) Sprint 2020
+- A Fully Homomorphic Encryption Scheme: https://crypto.stanford.edu/craig/craig-thesis.pdf
+- Key Rotation for Authenticated Encryption https://www.iacr.org/archive/crypto2017/10401298/10401298.pdf
+- https://www.reddit.com/r/cryptography/comments/q5ry44/comment/hg7xs45/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
+- https://blog.cloudflare.com/keyless-ssl-the-nitty-gritty-technical-details/
+- https://blog.cloudflare.com/a-relatively-easy-to-understand-primer-on-elliptic-curve-cryptography/
+- [Mersenne Twister](https://en.wikipedia.org/wiki/Mersenne_Twister) pseudo RNG
+- https://tls13.xargs.org
+- https://x25519.xargs.org
+- 
