@@ -1,8 +1,9 @@
-- https://eatonphil.com
-- https://blog.pragmaticengineer.com
-- https://transactional.blog
-- https://simonwillison.net/
-- https://www.openmymind.net/
-- https://seiya.me/
-- https://penberg.org/
-- https://kerkour.com/blog
+- Phil Eaton's blog [eatonphil.com](https://eatonphil.com)
+- The Pragmatic Engineer by Gergely Orosz [blog.pragmaticengineer.com](https://blog.pragmaticengineer.com)
+- The transactional blog by Alex Miller [transactional.blog](https://transactional.blog)
+- Simon Willison’s Weblog [simonwillson.net](https://simonwillison.net/)
+- Karl Seguin's blog [openmymind.net](https://www.openmymind.net/)
+- Seiya Nuta's blog [seiya.me](https://seiya.me/)
+- Pekka Enberg's blog [penberg.org](https://penberg.org/)
+- Sylvain Kerkour's blog [kerkour.com](https://kerkour.com/blog)
+- Lindsey Kuper's blog [decomposition.al](https://decomposition.al/)

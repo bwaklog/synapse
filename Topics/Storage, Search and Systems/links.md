@@ -145,3 +145,4 @@
 - Martin Kleppman Thinking in Events: from databases to distributed collaboration [youtube.com](https://www.youtube.com/watch?v=72W_VvFRqc0)
 - The AT Protocol [docs.bsky.app](https://docs.bsky.app/docs/advanced-guides/atproto)
 - Open social [overreacted.io](https://overreacted.io/open-social/)
+- How I learned about Merklix trees (without having to become a cryptocurrency enthusiast) [decomposition.al](https://decomposition.al/blog/2019/05/31/how-i-learned-about-merklix-trees-without-having-to-become-a-cryptocurrency-enthusiast/)
