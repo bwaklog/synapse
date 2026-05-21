@@ -148,3 +148,4 @@
 - How I learned about Merklix trees (without having to become a cryptocurrency enthusiast) [decomposition.al](https://decomposition.al/blog/2019/05/31/how-i-learned-about-merklix-trees-without-having-to-become-a-cryptocurrency-enthusiast/)
 - Linux: When to use scatter/gather IO (readv,writev) vs large buffer with fread [stackoverflow.com](https://stackoverflow.com/questions/10520182/linux-when-to-use-scatter-gather-io-readv-writev-vs-a-large-buffer-with-frea/10520793#10520793)
 - [vishnujayadevan.com](https://vishnujayadevan.com/blog/jump-consistent-hashing)
+- Hands-on lab for Unikernels [labs.iximiuz.com](https://labs.iximiuz.com/tutorials/unikernels-intro-93976514)
