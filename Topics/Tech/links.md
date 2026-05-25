@@ -2,19 +2,19 @@
 - [Wikipedia - FFI](https://en.wikipedia.org/wiki/Foreign_function_interface)(Foreign Function Interface)
 - stackoverflow.com/questions/12346487/what-do-each-memory-order-mean
 - en.cppreference.com/w/cpp/atomic/memory_order
-- davekilian.com/acquire-release.html
-- preshing.com/20120913/acquire-and-release-semantics/
+- Understanding memory ordering semantics such as `acquire-release` with examples in CPP [davekilian.com](https://davekilian.com/acquire-release.html)
+- Aquire release semantics, fences, etc. [preshing.com](preshing.com/20120913/acquire-and-release-semantics/)
+- A guide to lock free programming, techniques, and references [preshing.com](https://preshing.com/20120612/an-introduction-to-lock-free-programming/)
 - assets.bitbashing.io/papers/concurrency-primer.pdf
 - [Blocking IO, Non-Blocking IO and epoll](https://eklitzke.org/blocking-io-nonblocking-io-and-epol)
 - https://youtu.be/nbHRDguPxLg?si=91rcexVLyCqmStfk
 - [Basic SIMD Programming](http://ftp.cvut.cz/kernel/people/geoff/cell/ps3-linux-docs/CellProgrammingTutorial/BasicsOfSIMDProgramming.html)
-- https://flatassembler.net
+- Dedicated to assembly language programming and resources [flatassembler.net](https://flatassembler.net)
 - https://www.cs.cmu.edu/~crary/819-f09/Hoare78.pdf
 - [Building a toy VPN](https://write.yiransheng.com/vpn "https://write.yiransheng.com/vpn")
 - [TUN/TAP interface](https://en.wikipedia.org/wiki/TUN/TAP)
 - https://greenteapress.com/semaphores/LittleBookOfSemaphores.pdf
 - Read [What ever systems programmer should know about concurrency](https://assets.bitbashing.io/papers/concurrency-primer.pdf) 
-- https://preshing.com/20120612/an-introduction-to-lock-free-programming/
 - https://eli.thegreenplace.net
 - https://docs.google.com/document/d/1eqlplenH9K7dwnMI7cmkEwu4vZ7u2TTZV4z7UYJmp70/edit?tab=t.0#heading=h.k6znr7t8urvp
 - dns in rust - [Building a DNS server in rust](https://github.com/EmilHernvall/dnsguide?tab=readme-ov-file)
@@ -61,3 +61,5 @@
 - Hands-On Introduction to Unikernels [labs.iximiuz.com](https://labs.iximiuz.com/tutorials/unikernels-intro-93976514)
 - Implementing a small linker with Rust [zenn.dev](https://zenn.dev/skanehira/books/writing-a-tiny-linker-in-rust)
 - Implementing a Wasm runtime in Rust [zenn.dev](https://zenn.dev/skanehira/books/writing-wasm-runtime-in-rust)
+- Understanding SIMD algorithms beyond "it makes things go fast" [mcyoung.xyz](https://mcyoung.xyz/2023/11/27/simd-base64/)
+- Anubis - Firewall utility "weighing soul of connection" with challenges to protect upstream [github.com/TecharoHQ](https://github.com/TecharoHQ/anubis)

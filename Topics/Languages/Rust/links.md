@@ -4,7 +4,8 @@
 - [Alice Ryhl - Async: What is Blocking?](https://ryhl.io/blog/async-what-is-blocking/) -   Blog on cooperative scheduling in rust async runtime
 - https://stackoverflow.com/questions/40053550/the-compiler-suggests-i-add-a-static-lifetime-because-the-parameter-type-may-no
 - https://stackoverflow.com/a/40053651 explanation for the above
-- https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md
+- A great article on rust lifetime misconceptions, meaning for different references, etc. [github.com/pretzelhammer](https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md)
+- [github.com/pretzelhammer](https://github.com/pretzelhammer/rust-blog)
 - https://stackoverflow.com/questions/41081240/idiomatic-callbacks-in-rust
 - https://rustmagazine.org/issue-4/how-tokio-schedule-tasks/
 - [Tokio Internals](https://cafbit.com/post/tokio_internals/)
@@ -20,3 +21,8 @@
 - `std::pin`, what is it [doc.rust-lang.org](https://doc.rust-lang.org/std/pin/index.html#what-is-moving)
 - How much Rust's bound checking actually costs [readyset.io](https://readyset.io/blog/bounds-checks)
 - Is coding in rust as bad as CPP [quick-lint-js.com](https://quick-lint-js.com/blog/cpp-vs-rust-build-times/)
+- Nihal Pasham playlist on Rust (mir) compiler bites [youtube.com](https://www.youtube.com/playlist?list=PLIUa1VcxJuwkSeCKDTvy7nEj0pxxxJtxE)
+- Nihal Pasham playlist on Compilers in Rust [youtube.com](https://www.youtube.com/playlist?list=PLIUa1VcxJuwlJB4ZrahFGRNGyFx-S8tzJ)
+- Nihal Pasham playlist on CubeCL, pure rust GPU kernels [youtube.com](https://www.youtube.com/playlist?list=PLIUa1VcxJuwlI5sg8M8MH6FgzBzUWuAFI)
+- Nihal Pasham - instrumenting linux kernel with eBPF and Rust [youtube.com](https://www.youtube.com/watch?v=VtjbokLhsaw&list=PLIUa1VcxJuwl_VTCaI9HLfolb_y6Y1Mwt&index=1)
+- Nihal Pasham playlist on working with the Vulkan API and Rust [youtube.com](https://www.youtube.com/playlist?list=PLIUa1VcxJuwkVglGj0AOhjMugI7yqGZ0e)

@@ -9,7 +9,7 @@
 - [Goroutines vs threads](https://agrim123.github.io/posts/goroutines-vs-threads.html)
 - [Golang Internals and Symbol Recovery](https://cloud.google.com/blog/topics/threat-intelligence/golang-internals-symbol-recovery)
 - [Exploring depths of golang channels](https://medium.com/@ravikumar19997/exploring-the-depths-of-golang-channels-a-comprehensive-guide-53e1a97cafe6)
-- [Data Race patterns in Go - uber](https://www.uber.com/en-IN/blog/data-race-patterns-in-go/)
+- Data Race patterns in Go by Uber [uber.com](https://www.uber.com/en-IN/blog/data-race-patterns-in-go/)
 - [Video - Understanding the go runtime](https://www.youtube.com/watch?v=YpRNFNFaLGY&t=459s)
 - [Video - Understanding Go Channels, Kavya Joshi](https://www.youtube.com/watch?v=KBZlN0izeiY)
 - [Go Channel Implementation](http://dmitryvorobev.blogspot.com/2016/08/golang-channels-implementation.html)
@@ -23,7 +23,7 @@
 - [Video - Understanding the go runtime](https://www.youtube.com/watch?v=YpRNFNFaLGY&t=459s)
 - [Video - Understanding Go Channels, Kavya Joshi](https://www.youtube.com/watch?v=KBZlN0izeiY)
 - [Go Channel Implementation](http://dmitryvorobev.blogspot.com/2016/08/golang-channels-implementation.html)
-- https://victoriametrics.com/blog/categories/go-@-victoriametrics/
+- VictoriaMetrics Observability Blog [victoriametrics.com](https://victoriametrics.com/blog/categories/go-@-victoriametrics/)
 - https://oldwww.just.edu.jo/~amerb/teaching/1-10-11/cs728/3.pdf
 - https://www.allthingsdistributed.com/2023/07/building-and-operating-a-pretty-big-storage-system.html
 - Rust threads on the GPU [vectorware.com](https://www.vectorware.com/blog/threads-on-gpu/)

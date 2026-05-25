@@ -7,3 +7,4 @@
 - Pekka Enberg's blog [penberg.org](https://penberg.org/)
 - Sylvain Kerkour's blog [kerkour.com](https://kerkour.com/blog)
 - Lindsey Kuper's blog [decomposition.al](https://decomposition.al/)
+- Jeff Preshing's technical blog focusing on CPP and Python and other interesting blogs on programming [preshing.com](https://preshing.com/)
