@@ -1,0 +1,1 @@
+- Wikipedia page on Finite projective planes [wikipedia.org](https://en.wikipedia.org/wiki/Projective_plane#Finite_projective_planes) - Any two distinct points lie on a common line, two distinct lines intersect at a common point.

@@ -1,28 +1,28 @@
-- [Kerkour - Rust async/await and what is a runtime ](https://kerkour.com/rust-async-await-what-is-a-runtime)
-- [Without Boats - Why Async Rust](https://without.boats/blog/why-async-rust/)
-- [Making the Tokio Runtime 10x Faster](https://tokio.rs/blog/2019-10-scheduler)
-- [Alice Ryhl - Async: What is Blocking?](https://ryhl.io/blog/async-what-is-blocking/) -   Blog on cooperative scheduling in rust async runtime
-- https://stackoverflow.com/questions/40053550/the-compiler-suggests-i-add-a-static-lifetime-because-the-parameter-type-may-no
-- https://stackoverflow.com/a/40053651 explanation for the above
-- A great article on rust lifetime misconceptions, meaning for different references, etc. [github.com/pretzelhammer](https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md)
-- [github.com/pretzelhammer](https://github.com/pretzelhammer/rust-blog)
-- https://stackoverflow.com/questions/41081240/idiomatic-callbacks-in-rust
-- https://rustmagazine.org/issue-4/how-tokio-schedule-tasks/
-- [Tokio Internals](https://cafbit.com/post/tokio_internals/)
-- [Kerkour - Cooperative vs Preemptive Scheduling](https://kerkour.com/cooperative-vs-preemptive-scheduling)
-- [Kerkour - Rust async/await and what is a runtime ](https://kerkour.com/rust-async-await-what-is-a-runtime)
-- [Without Boats - Why Async Rust](https://without.boats/blog/why-async-rust/)
-- [Making the Tokio Runtime 10x Faster](https://tokio.rs/blog/2019-10-scheduler)
-- [Alice Ryhl - Async: What is Blocking?](https://ryhl.io/blog/async-what-is-blocking/) -   on cooperative scheduling in rust async runtime
-- [Answer in thread](https://stackoverflow.com/a/40053651) explanation for the above
-- [Common rust lifetime misconceptions](https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md)
-- [Idiomatic callbacks in rust](https://stackoverflow.com/questions/41081240/idiomatic-callbacks-in-rust)
-- Rust zero-cost abstraction vs SIMDI [turbopuffer.com](https://turbopuffer.com/blog/zero-cost)
-- `std::pin`, what is it [doc.rust-lang.org](https://doc.rust-lang.org/std/pin/index.html#what-is-moving)
-- How much Rust's bound checking actually costs [readyset.io](https://readyset.io/blog/bounds-checks)
-- Is coding in rust as bad as CPP [quick-lint-js.com](https://quick-lint-js.com/blog/cpp-vs-rust-build-times/)
-- Nihal Pasham playlist on Rust (mir) compiler bites [youtube.com](https://www.youtube.com/playlist?list=PLIUa1VcxJuwkSeCKDTvy7nEj0pxxxJtxE)
-- Nihal Pasham playlist on Compilers in Rust [youtube.com](https://www.youtube.com/playlist?list=PLIUa1VcxJuwlJB4ZrahFGRNGyFx-S8tzJ)
-- Nihal Pasham playlist on CubeCL, pure rust GPU kernels [youtube.com](https://www.youtube.com/playlist?list=PLIUa1VcxJuwlI5sg8M8MH6FgzBzUWuAFI)
-- Nihal Pasham - instrumenting linux kernel with eBPF and Rust [youtube.com](https://www.youtube.com/watch?v=VtjbokLhsaw&list=PLIUa1VcxJuwl_VTCaI9HLfolb_y6Y1Mwt&index=1)
-- Nihal Pasham playlist on working with the Vulkan API and Rust [youtube.com](https://www.youtube.com/playlist?list=PLIUa1VcxJuwkVglGj0AOhjMugI7yqGZ0e)
+- [Kerkour - Rust async/await and what is a runtime ](https://kerkour.com/rust-async-await-what-is-a-runtime) #languages #rust
+- [Without Boats - Why Async Rust](https://without.boats/blog/why-async-rust/) #languages #rust
+- [Making the Tokio Runtime 10x Faster](https://tokio.rs/blog/2019-10-scheduler) #languages #rust
+- [Alice Ryhl - Async: What is Blocking?](https://ryhl.io/blog/async-what-is-blocking/) -   Blog on cooperative scheduling in rust async runtime #languages #rust
+- [stackoverflow.com](https://stackoverflow.com/questions/40053550/the-compiler-suggests-i-add-a-static-lifetime-because-the-parameter-type-may-no) #languages #rust
+- [stackoverflow.com](https://stackoverflow.com/a/40053651) explanation for the above #languages #rust
+- A great article on rust lifetime misconceptions, meaning for different references, etc. [github.com/pretzelhammer](https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md) #languages #rust
+- [github.com/pretzelhammer](https://github.com/pretzelhammer/rust-blog) #languages #rust
+- https://stackoverflow.com/questions/41081240/idiomatic-callbacks-in-rust #languages #rust
+- https://rustmagazine.org/issue-4/how-tokio-schedule-tasks/ #languages #rust
+- [Tokio Internals](https://cafbit.com/post/tokio_internals/) #languages #rust
+- [Kerkour - Cooperative vs Preemptive Scheduling](https://kerkour.com/cooperative-vs-preemptive-scheduling) #languages #rust
+- [Kerkour - Rust async/await and what is a runtime ](https://kerkour.com/rust-async-await-what-is-a-runtime) #languages #rust
+- [Without Boats - Why Async Rust](https://without.boats/blog/why-async-rust/) #languages #rust
+- [Making the Tokio Runtime 10x Faster](https://tokio.rs/blog/2019-10-scheduler) #languages #rust
+- [Alice Ryhl - Async: What is Blocking?](https://ryhl.io/blog/async-what-is-blocking/) - on cooperative scheduling in rust async runtime #languages #rust
+- [Answer in thread](https://stackoverflow.com/a/40053651) explanation for the above #languages #rust
+- [Common rust lifetime misconceptions](https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md) #languages #rust
+- [Idiomatic callbacks in rust](https://stackoverflow.com/questions/41081240/idiomatic-callbacks-in-rust) #languages #rust
+- Rust zero-cost abstraction vs SIMDI [turbopuffer.com](https://turbopuffer.com/blog/zero-cost) #languages #rust
+- `std::pin`, what is it [doc.rust-lang.org](https://doc.rust-lang.org/std/pin/index.html#what-is-moving) #languages #rust
+- How much Rust's bound checking actually costs [readyset.io](https://readyset.io/blog/bounds-checks) #languages #rust
+- Is coding in rust as bad as CPP [quick-lint-js.com](https://quick-lint-js.com/blog/cpp-vs-rust-build-times/) #languages #rust
+- Nihal Pasham playlist on Rust (mir) compiler bites [youtube.com](https://www.youtube.com/playlist?list=PLIUa1VcxJuwkSeCKDTvy7nEj0pxxxJtxE) #languages #rust
+- Nihal Pasham playlist on Compilers in Rust [youtube.com](https://www.youtube.com/playlist?list=PLIUa1VcxJuwlJB4ZrahFGRNGyFx-S8tzJ) #languages #rust
+- Nihal Pasham playlist on CubeCL, pure rust GPU kernels [youtube.com](https://www.youtube.com/playlist?list=PLIUa1VcxJuwlI5sg8M8MH6FgzBzUWuAFI) #languages #rust
+- Nihal Pasham - instrumenting linux kernel with eBPF and Rust [youtube.com](https://www.youtube.com/watch?v=VtjbokLhsaw&list=PLIUa1VcxJuwl_VTCaI9HLfolb_y6Y1Mwt&index=1) #languages #rust
+- Nihal Pasham playlist on working with the Vulkan API and Rust [youtube.com](https://www.youtube.com/playlist?list=PLIUa1VcxJuwkVglGj0AOhjMugI7yqGZ0e) #languages #rust

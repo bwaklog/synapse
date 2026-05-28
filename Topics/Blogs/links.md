@@ -1,10 +1,10 @@
-- Phil Eaton's blog [eatonphil.com](https://eatonphil.com)
-- The Pragmatic Engineer by Gergely Orosz [blog.pragmaticengineer.com](https://blog.pragmaticengineer.com)
-- The transactional blog by Alex Miller [transactional.blog](https://transactional.blog)
-- Simon Willison’s Weblog [simonwillson.net](https://simonwillison.net/)
-- Karl Seguin's blog [openmymind.net](https://www.openmymind.net/)
-- Seiya Nuta's blog [seiya.me](https://seiya.me/)
-- Pekka Enberg's blog [penberg.org](https://penberg.org/)
-- Sylvain Kerkour's blog [kerkour.com](https://kerkour.com/blog)
-- Lindsey Kuper's blog [decomposition.al](https://decomposition.al/)
-- Jeff Preshing's technical blog focusing on CPP and Python and other interesting blogs on programming [preshing.com](https://preshing.com/)
+- Phil Eaton's blog [eatonphil.com](https://eatonphil.com) #blogs
+- The Pragmatic Engineer by Gergely Orosz [blog.pragmaticengineer.com](https://blog.pragmaticengineer.com) #blogs
+- The transactional blog by Alex Miller [transactional.blog](https://transactional.blog) #blogs
+- Simon Willison’s Weblog [simonwillson.net](https://simonwillison.net/) #blogs
+- Karl Seguin's blog [openmymind.net](https://www.openmymind.net/) #blogs
+- Seiya Nuta's blog [seiya.me](https://seiya.me/) #blogs
+- Pekka Enberg's blog [penberg.org](https://penberg.org/) #blogs
+- Sylvain Kerkour's blog [kerkour.com](https://kerkour.com/blog) #blogs
+- Lindsey Kuper's blog [decomposition.al](https://decomposition.al/) #blogs
+- Jeff Preshing's technical blog focusing on CPP and Python and other interesting blogs on programming [preshing.com](https://preshing.com/) #blogs

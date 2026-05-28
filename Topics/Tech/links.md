@@ -1,65 +1,65 @@
-- [Number one optimisation tip - DON'T](https://gist.github.com/kvark/f067ba974446f7c5ce5bd544fe370186#number-one-optimization-tip-dont)
-- [Wikipedia - FFI](https://en.wikipedia.org/wiki/Foreign_function_interface)(Foreign Function Interface)
-- stackoverflow.com/questions/12346487/what-do-each-memory-order-mean
-- en.cppreference.com/w/cpp/atomic/memory_order
-- Understanding memory ordering semantics such as `acquire-release` with examples in CPP [davekilian.com](https://davekilian.com/acquire-release.html)
-- Aquire release semantics, fences, etc. [preshing.com](preshing.com/20120913/acquire-and-release-semantics/)
-- A guide to lock free programming, techniques, and references [preshing.com](https://preshing.com/20120612/an-introduction-to-lock-free-programming/)
-- assets.bitbashing.io/papers/concurrency-primer.pdf
-- [Blocking IO, Non-Blocking IO and epoll](https://eklitzke.org/blocking-io-nonblocking-io-and-epol)
-- https://youtu.be/nbHRDguPxLg?si=91rcexVLyCqmStfk
-- [Basic SIMD Programming](http://ftp.cvut.cz/kernel/people/geoff/cell/ps3-linux-docs/CellProgrammingTutorial/BasicsOfSIMDProgramming.html)
-- Dedicated to assembly language programming and resources [flatassembler.net](https://flatassembler.net)
-- https://www.cs.cmu.edu/~crary/819-f09/Hoare78.pdf
-- [Building a toy VPN](https://write.yiransheng.com/vpn "https://write.yiransheng.com/vpn")
-- [TUN/TAP interface](https://en.wikipedia.org/wiki/TUN/TAP)
-- https://greenteapress.com/semaphores/LittleBookOfSemaphores.pdf
-- Read [What ever systems programmer should know about concurrency](https://assets.bitbashing.io/papers/concurrency-primer.pdf) 
-- https://eli.thegreenplace.net
-- https://docs.google.com/document/d/1eqlplenH9K7dwnMI7cmkEwu4vZ7u2TTZV4z7UYJmp70/edit?tab=t.0#heading=h.k6znr7t8urvp
-- dns in rust - [Building a DNS server in rust](https://github.com/EmilHernvall/dnsguide?tab=readme-ov-file)
-- [Building TCP in rust](https://www.youtube.com/watch?v=bzja9fQWzdA&t=3s) - [Jon Gjengset](https://www.youtube.com/@jonhoo)
-- https://daniel.haxx.se/blog/2021/05/10/the-libcurl-transfer-state-machine/
-- https://beej.us/guide/bgnet/
-- https://www.youtube.com/@ChrisGreer/videos - Computer Networks with wireshark really really cool
-- https://0xghost.dev/blog/std-move-deep-dive/
-- https://unixism.net/loti/
-- https://navinshrinivas.com/blog/log_log_ce/
-- https://ciechanow.ski/cameras-and-lenses/
-- https://h4x0r.org/funreliable/
-- https://justrach.com/blog/building-nanobrew
-- https://www.image-engineering.de/library/technotes/745-how-does-the-jpeg-compression-work
-- https://justrach.com/blog/building-nanobrew
-- https://stackoverflow.com/questions/11408041/how-to-debug-the-linux-kernel-with-gdb-and-qemu/11409961#11409961
-- https://www.kernel.org/doc/html/latest/process/debugging/gdb-kernel-debugging.html
-- Nick Licthman [Exploring How linux boots (video)](https://www.youtube.com/watch?v=D4k1Q3aHpT8)
-- https://www.kernel.org/doc/html/latest/filesystems/ramfs-rootfs-initramfs.html
-- https://www.barroso.org/publications/TheTailAtScale.pdf
-- https://www.youtube.com/watch?v=xYfiOnufBSk
-- https://variantsystems.io/blog/beam-otp-process-concurrency
-- https://sdomi.pl/weblog/23-serenityos-realhw/
-- https://nimrod.blog/posts/algorithms-behind-popcount/
-- https://stackoverflow.com/questions/109023/count-the-number-of-set-bits-in-a-32-bit-integer **SWAR** - SIMD with a Register
-- [Beating the L1 cache with value speculation](https://mazzo.li/posts/value-speculation.html)
-- Filesystems: Ext4  [internals-for-interns.com](https://internals-for-interns.com/posts/ext4-filesystem/)
-- Compute Express Link (CLX) [wikipedia.org](https://en.wikipedia.org/wiki/Compute_Express_Link)
-- An introduction to CLX Interconnect [dl.acm.org](https://dl.acm.org/doi/epdf/10.1145/3669900)
-- RFC 9849: TLS Encrypted Client Hello [rfc-editor.org](https://www.rfc-editor.org/rfc/rfc9849.html)
-- RFC 4122: A Universal Unique Identification (UUID) URN Namespace [datatracker.ietf.org](https://datatracker.ietf.org/doc/html/rfc4122#section-4.1.3)
-- Difference between a "coroutine" and a "thread" [stackoverflow.com](https://stackoverflow.com/questions/1934715/difference-between-a-coroutine-and-a-thread)
-- Nearly all Binary Searches and Mergesorts are broken [research.google](https://research.google/blog/extra-extra-read-all-about-it-nearly-all-binary-searches-and-mergesorts-are-broken/)
-- Cost of Concurrency Coordination with Jon Gjengset [youtube.com](https://www.youtube.com/watch?v=tND-wBBZ8RY)
-- Understanding mmap, the workhorse behind keeping memory access efficient in linux [youtube.com](https://www.youtube.com/watch?v=8hVLcyBkSXY)
-- Introduction to lockless programming [lwn.net](https://lwn.net/Articles/844224/)
-- Ted Nyman - High Performance Git [gitperf.com](https://gitperf.com/)
-- MPEG-2 Transport Stream Packaging for Media Over QUIC Transport [www.ietf.org](https://www.ietf.org/archive/id/draft-gregoire-moq-msfts-00.html)
-- On a Boat https://moq.dev/blog/on-a-boat/
-- Phantom Patch https://samizdat.dev/phantom-patch/
-- DevOps & SRE interview questions https://ewry.net/devops-sre-interview-questions/
-- FastCGI: 30 Year Old and Still the Better Protocol for Reverse Proxies [www.agwa.name](https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies)
-- QUIC: A UDP-Based Multiplexed and Secure Transport [datatracker.ietf.org](https://datatracker.ietf.org/doc/html/rfc9000)
-- Hands-On Introduction to Unikernels [labs.iximiuz.com](https://labs.iximiuz.com/tutorials/unikernels-intro-93976514)
-- Implementing a small linker with Rust [zenn.dev](https://zenn.dev/skanehira/books/writing-a-tiny-linker-in-rust)
-- Implementing a Wasm runtime in Rust [zenn.dev](https://zenn.dev/skanehira/books/writing-wasm-runtime-in-rust)
-- Understanding SIMD algorithms beyond "it makes things go fast" [mcyoung.xyz](https://mcyoung.xyz/2023/11/27/simd-base64/)
-- Anubis - Firewall utility "weighing soul of connection" with challenges to protect upstream [github.com/TecharoHQ](https://github.com/TecharoHQ/anubis)
+- [Number one optimisation tip - DON'T](https://gist.github.com/kvark/f067ba974446f7c5ce5bd544fe370186#number-one-optimization-tip-dont) #tech
+- [Wikipedia - FFI](https://en.wikipedia.org/wiki/Foreign_function_interface)(Foreign Function Interface) #tech
+- [stackoverflow.com](https://stackoverflow.com/questions/12346487/what-do-each-memory-order-mean) #tech
+- [en.cppreference.com](https://en.cppreference.com/w/cpp/atomic/memory_order) #tech
+- Understanding memory ordering semantics such as `acquire-release` with examples in CPP [davekilian.com](https://davekilian.com/acquire-release.html) #tech
+- Aquire release semantics, fences, etc. [preshing.com](preshing.com/20120913/acquire-and-release-semantics/) #tech
+- A guide to lock free programming, techniques, and references [preshing.com](https://preshing.com/20120612/an-introduction-to-lock-free-programming/) #tech
+- [assets.bitbashing.io](https://assets.bitbashing.io/papers/concurrency-primer.pdf) #tech
+- [Blocking IO, Non-Blocking IO and epoll](https://eklitzke.org/blocking-io-nonblocking-io-and-epol) #tech
+- https://youtu.be/nbHRDguPxLg?si=91rcexVLyCqmStfk #tech
+- [Basic SIMD Programming](http://ftp.cvut.cz/kernel/people/geoff/cell/ps3-linux-docs/CellProgrammingTutorial/BasicsOfSIMDProgramming.html) #tech
+- Dedicated to assembly language programming and resources [flatassembler.net](https://flatassembler.net) #tech
+- [www.cs.cmu.edu](https://www.cs.cmu.edu/~crary/819-f09/Hoare78.pdf) #tech
+- [Building a toy VPN](https://write.yiransheng.com/vpn "https://write.yiransheng.com/vpn") #tech
+- [TUN/TAP interface](https://en.wikipedia.org/wiki/TUN/TAP) #tech
+- [greenteapress.com](https://greenteapress.com/semaphores/LittleBookOfSemaphores.pdf) #tech
+- Read [What ever systems programmer should know about concurrency](https://assets.bitbashing.io/papers/concurrency-primer.pdf)  #tech
+- [eli.thegreenplace.net](https://eli.thegreenplace.net) #tech
+- [docs.google.com](https://docs.google.com/document/d/1eqlplenH9K7dwnMI7cmkEwu4vZ7u2TTZV4z7UYJmp70/edit?tab=t.0#heading=h.k6znr7t8urvp) #tech
+- dns in rust - [Building a DNS server in rust](https://github.com/EmilHernvall/dnsguide?tab=readme-ov-file) #tech
+- [Building TCP in rust](https://www.youtube.com/watch?v=bzja9fQWzdA&t=3s) - [Jon Gjengset](https://www.youtube.com/@jonhoo) #tech
+- [daniel.haxx.se](https://daniel.haxx.se/blog/2021/05/10/the-libcurl-transfer-state-machine/) #tech
+- [beej.us](https://beej.us/guide/bgnet/) #tech
+- [www.youtube.com](https://www.youtube.com/@ChrisGreer/videos) - Computer Networks with wireshark really really cool #tech
+- [0xghost.dev](https://0xghost.dev/blog/std-move-deep-dive/) #tech
+- [unixism.net](https://unixism.net/loti/) #tech
+- [navinshrinivas.com](https://navinshrinivas.com/blog/log_log_ce/) #tech
+- [ciechanow.ski](https://ciechanow.ski/cameras-and-lenses/) #tech
+- [h4x0r.org](https://h4x0r.org/funreliable/) #tech
+- [justrach.com](https://justrach.com/blog/building-nanobrew) #tech
+- [www.image-engineering.de](https://www.image-engineering.de/library/technotes/745-how-does-the-jpeg-compression-work) #tech
+- [justrach.com](https://justrach.com/blog/building-nanobrew) #tech
+- [stackoverflow.com](https://stackoverflow.com/questions/11408041/how-to-debug-the-linux-kernel-with-gdb-and-qemu/11409961#11409961) #tech
+- [www.kernel.org](https://www.kernel.org/doc/html/latest/process/debugging/gdb-kernel-debugging.html) #tech
+- Nick Licthman [Exploring How linux boots (video)](https://www.youtube.com/watch?v=D4k1Q3aHpT8) #tech
+- [www.kernel.org](https://www.kernel.org/doc/html/latest/filesystems/ramfs-rootfs-initramfs.html) #tech
+- [www.barroso.org](https://www.barroso.org/publications/TheTailAtScale.pdf) #tech
+- [www.youtube.com](https://www.youtube.com/watch?v=xYfiOnufBSk) #tech
+- [variantsystems.io](https://variantsystems.io/blog/beam-otp-process-concurrency) #tech
+- [sdomi.pl](https://sdomi.pl/weblog/23-serenityos-realhw/) #tech
+- [nimrod.blog](https://nimrod.blog/posts/algorithms-behind-popcount/) #tech
+- [stackoverflow.com](https://stackoverflow.com/questions/109023/count-the-number-of-set-bits-in-a-32-bit-integer) - **SWAR**: SIMD with a Register #tech
+- [Beating the L1 cache with value speculation](https://mazzo.li/posts/value-speculation.html) #tech
+- Filesystems: Ext4  [internals-for-interns.com](https://internals-for-interns.com/posts/ext4-filesystem/) #tech
+- Compute Express Link (CLX) [wikipedia.org](https://en.wikipedia.org/wiki/Compute_Express_Link) #tech
+- An introduction to CLX Interconnect [dl.acm.org](https://dl.acm.org/doi/epdf/10.1145/3669900) #tech
+- RFC 9849: TLS Encrypted Client Hello [rfc-editor.org](https://www.rfc-editor.org/rfc/rfc9849.html) #tech
+- RFC 4122: A Universal Unique Identification (UUID) URN Namespace [datatracker.ietf.org](https://datatracker.ietf.org/doc/html/rfc4122#section-4.1.3) #tech
+- Difference between a "coroutine" and a "thread" [stackoverflow.com](https://stackoverflow.com/questions/1934715/difference-between-a-coroutine-and-a-thread) #tech
+- Nearly all Binary Searches and Mergesorts are broken [research.google](https://research.google/blog/extra-extra-read-all-about-it-nearly-all-binary-searches-and-mergesorts-are-broken/) #tech
+- Cost of Concurrency Coordination with Jon Gjengset [youtube.com](https://www.youtube.com/watch?v=tND-wBBZ8RY) #tech
+- Understanding mmap, the workhorse behind keeping memory access efficient in linux [youtube.com](https://www.youtube.com/watch?v=8hVLcyBkSXY) #tech
+- Introduction to lockless programming [lwn.net](https://lwn.net/Articles/844224/) #tech
+- Ted Nyman - High Performance Git [gitperf.com](https://gitperf.com/) #tech
+- MPEG-2 Transport Stream Packaging for Media Over QUIC Transport [www.ietf.org](https://www.ietf.org/archive/id/draft-gregoire-moq-msfts-00.html) #tech
+- On a Boat [moq.dev](https://moq.dev/blog/on-a-boat/) #tech
+- Phantom Patch [samizdat.dev](https://samizdat.dev/phantom-patch/) #tech
+- DevOps & SRE interview questions [ewry.net](https://ewry.net/devops-sre-interview-questions/) #tech
+- FastCGI: 30 Year Old and Still the Better Protocol for Reverse Proxies [www.agwa.name](https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies) #tech
+- QUIC: A UDP-Based Multiplexed and Secure Transport [datatracker.ietf.org](https://datatracker.ietf.org/doc/html/rfc9000) #tech
+- Hands-On Introduction to Unikernels [labs.iximiuz.com](https://labs.iximiuz.com/tutorials/unikernels-intro-93976514) #tech
+- Implementing a small linker with Rust [zenn.dev](https://zenn.dev/skanehira/books/writing-a-tiny-linker-in-rust) #tech
+- Implementing a Wasm runtime in Rust [zenn.dev](https://zenn.dev/skanehira/books/writing-wasm-runtime-in-rust) #tech
+- Understanding SIMD algorithms beyond "it makes things go fast" [mcyoung.xyz](https://mcyoung.xyz/2023/11/27/simd-base64/) #tech
+- Anubis - Firewall utility "weighing soul of connection" with challenges to protect upstream [github.com/TecharoHQ](https://github.com/TecharoHQ/anubis) #tech
