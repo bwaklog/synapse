@@ -162,3 +162,7 @@
 - A guide for C and C++ programmers for understanding linker essentials [www.lurklurk.org](https://www.lurklurk.org/linkers/linkers.html) #systems
 - [0xfe.blogspot.com](https://0xfe.blogspot.com/2006/03/how-os-x-executes-applications.html) - Article on MachO binary format on OS-X and how applications are executed #systems
 - A video on UDP Hole Punching [youtube.com](https://youtu.be/IVPxopBTXBQ?si=T9zaZnFjGhgWcf9H) #systems
+- Efficient IO with io_uring by kernel developer Jens Axboe [kernel.dk](https://kernel.dk/io_uring.pdf?from_theconsensus=1) #systems #io 
+- LWN article for io_uring [lwn.net](https://lwn.net/Articles/776703/) #systems #io
+- Bespoke OLAP: Synthesizing Workload-Specific One-size-fits-one Database Engines [arxiv.org](https://arxiv.org/abs/2603.02001v1)
+- Discovering hard disk physical geometry through physical benchmarking https://blog.stuffedcow.net/2019/09/hard-disk-geometry-microbenchmarking/

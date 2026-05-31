@@ -63,3 +63,4 @@
 - Implementing a Wasm runtime in Rust [zenn.dev](https://zenn.dev/skanehira/books/writing-wasm-runtime-in-rust) #tech
 - Understanding SIMD algorithms beyond "it makes things go fast" [mcyoung.xyz](https://mcyoung.xyz/2023/11/27/simd-base64/) #tech
 - Anubis - Firewall utility "weighing soul of connection" with challenges to protect upstream [github.com/TecharoHQ](https://github.com/TecharoHQ/anubis) #tech
+- [theblessedmachine.substack.com](https://theblessedmachine.substack.com/p/big-integers-writing-and-optimizing) - second part of a series on understanding big integers and operations #tech #algorithms
