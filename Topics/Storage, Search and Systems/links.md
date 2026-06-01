@@ -166,3 +166,5 @@
 - LWN article for io_uring [lwn.net](https://lwn.net/Articles/776703/) #systems #io
 - Bespoke OLAP: Synthesizing Workload-Specific One-size-fits-one Database Engines [arxiv.org](https://arxiv.org/abs/2603.02001v1)
 - Discovering hard disk physical geometry through physical benchmarking https://blog.stuffedcow.net/2019/09/hard-disk-geometry-microbenchmarking/
+- FROST: Fingerprinting remotely using OPFS-based SSD timings [hannesweissteiner.com](https://hannesweissteiner.com/pdfs/frost.pdf)
+- S3 Files are the changing face of S3 [www.allthingsdistributed.com](https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html)

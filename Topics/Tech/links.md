@@ -64,3 +64,8 @@
 - Understanding SIMD algorithms beyond "it makes things go fast" [mcyoung.xyz](https://mcyoung.xyz/2023/11/27/simd-base64/) #tech
 - Anubis - Firewall utility "weighing soul of connection" with challenges to protect upstream [github.com/TecharoHQ](https://github.com/TecharoHQ/anubis) #tech
 - [theblessedmachine.substack.com](https://theblessedmachine.substack.com/p/big-integers-writing-and-optimizing) - second part of a series on understanding big integers and operations #tech #algorithms
+- Branch predictors: How many if's are too many? [blog.cloudflare.com](https://blog.cloudflare.com/branch-predictor/#footnotes)
+- Priority inversion - priority inheritance [wiki.linuxfoundation.org](https://wiki.linuxfoundation.org/realtime/documentation/technical_basics/pi)
+- Cachegrind: a high-precision tracing profiler, a tool provided by valgrind [valgrind.org](https://valgrind.org/docs/manual/cg-manual.html)
+- Usagi 2d game engine for rapid prototyping [usagiengine.com](https://usagiengine.com/)
+- A future where dynamic hardware becomes a thing [skudlur.github.io](https://skudlur.github.io/posts/rt_reconfig_fpga/)
