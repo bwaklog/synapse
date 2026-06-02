@@ -26,3 +26,4 @@
 - [www.allthingsdistributed.com](https://www.allthingsdistributed.com/2023/07/building-and-operating-a-pretty-big-storage-system.html) #languages #golang
 - Rust threads on the GPU [vectorware.com](https://www.vectorware.com/blog/threads-on-gpu/) #languages #golang
 - Polymorphic, Recursive Interfaces Using Go Generics [multithreaded.stitchfix.com](https://multithreaded.stitchfix.com/blog/2023/02/01/go-polymorphic-interfaces/) #languages #golang
+- Tracing HTTP Requests with Go's `net/http/httptrace` [blainsmith.com](https://blainsmith.com/articles/httptrace-with-go/)
