@@ -1,0 +1,1 @@
+- Two years of vector search at Notion: 10x scale, 1/10th cost [notion.com](https://www.notion.com/blog/two-years-of-vector-search-at-notion)

@@ -5,3 +5,4 @@
 - Learning zig (updated up till 2025) [openmymind.net]([https://www.openmymind.net/](https://www.openmymind.net/learning_zig/#))
 - Zig book [pedropark99.github.io/zig-book](https://pedropark99.github.io/zig-book/Chapters/01-zig-weird.html)
 - Static Allocation with Zig - _Introducting kv, a statically allocated key/value server_ [nickmonad.blog](https://nickmonad.blog/2025/static-allocation-with-zig-kv/)
+- Zig by example [github.com/boringcollege](https://github.com/boringcollege/zig-by-example)

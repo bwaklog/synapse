@@ -8,3 +8,4 @@
 - Efficient Estimation of Word Representations in Vector Space [arxiv.org](https://arxiv.org/abs/1301.3781)[research.google.com](https://research.google/pubs/efficient-estimation-of-word-representations-in-vector-space/)
 - Scalable Private Search with Wally [machinelearning.apple.com](https://machinelearning.apple.com/research/wally-search)
 - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding [research.google.com](https://research.google/pubs/bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding/)
+- How LLMs Actually Work [www.0xkato.xyz](https://www.0xkato.xyz/how-llms-actually-work/)

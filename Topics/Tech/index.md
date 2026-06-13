@@ -69,3 +69,6 @@
 - Cachegrind: a high-precision tracing profiler, a tool provided by valgrind [valgrind.org](https://valgrind.org/docs/manual/cg-manual.html)
 - Usagi 2d game engine for rapid prototyping [usagiengine.com](https://usagiengine.com/)
 - A future where dynamic hardware becomes a thing [skudlur.github.io](https://skudlur.github.io/posts/rt_reconfig_fpga/)
+- Writing a Debugger From Scratch - DbgRs Part 1 - Attaching to a Process [www.timdbg.com](https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-1/)
+- Moving beyond `fork() `+ `exec()` [lwn.net](https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/)
+- Image Compression [makingsoftware.com](https://www.makingsoftware.com/chapters/image-compression)
