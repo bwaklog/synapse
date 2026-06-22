@@ -35,3 +35,10 @@
 - A guide for C and C++ programmers for understanding linker essentials [www.lurklurk.org](https://www.lurklurk.org/linkers/linkers.html)
 - [0xfe.blogspot.com](https://0xfe.blogspot.com/2006/03/how-os-x-executes-applications.html) - Article on MachO binary format on OS-X and how applications are executed
 - A video on UDP Hole Punching [youtube.com](https://youtu.be/IVPxopBTXBQ?si=T9zaZnFjGhgWcf9H)
+- Queues don't fix overheads [ferd.ca](https://ferd.ca/queues-don-t-fix-overload.html)
+- CS170 Computer Organisation & Systems [web.stanford.edu](https://web.stanford.edu/class/archive/cs/cs107/cs107.1266/)
+- Multipath QUIC: Design and Evaluation [dl.acm.org](https://dl.acm.org/doi/10.1145/3143361.3143370)
+- Multi-Path TCP: revolutionizing connectivity, one path at a time [blog.cloudflare.com](https://blog.cloudflare.com/multi-path-tcp-revolutionizing-connectivity-one-path-at-a-time/)
+- Programming Parallel Computers [ppc.cs.aalto.fi](https://ppc.cs.aalto.fi/)
+- Computational thinking by Jeannette M. Wing [dl.acm.org](https://dl.acm.org/doi/10.1145/1118178.1118215)
+- All my favourite tracing tools: eBPF, QEMU, Perfetto, new ones I built and more [thume.ca](https://thume.ca/2023/12/02/tracing-methods/)

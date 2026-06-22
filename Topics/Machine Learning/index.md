@@ -9,3 +9,5 @@
 - Scalable Private Search with Wally [machinelearning.apple.com](https://machinelearning.apple.com/research/wally-search)
 - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding [research.google.com](https://research.google/pubs/bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding/)
 - How LLMs Actually Work [www.0xkato.xyz](https://www.0xkato.xyz/how-llms-actually-work/)
+- Can gzip be a language model [nathan.rs](https://nathan.rs/posts/gzip-lm/)
+- Language Modeling Without Neural Networks [nathan.rs](https://nathan.rs/posts/unbounded-n-gram/)

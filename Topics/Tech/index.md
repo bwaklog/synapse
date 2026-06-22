@@ -72,3 +72,7 @@
 - Writing a Debugger From Scratch - DbgRs Part 1 - Attaching to a Process [www.timdbg.com](https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-1/)
 - Moving beyond `fork() `+ `exec()` [lwn.net](https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/)
 - Image Compression [makingsoftware.com](https://www.makingsoftware.com/chapters/image-compression)
+- Debugging WASM in Chrome DevTools [eli.thegreenplace.net](https://eli.thegreenplace.net/2026/debugging-wasm-in-chrome-devtools/)
+- 1.5+ million PDFs in 25 minutes [zerodha.tech](https://zerodha.tech/blog/1-5-million-pdfs-in-25-minutes/)
+- CS 6120: CS 6120: Advanced Compilers: The Self-Guided Online Course [cs.cornell.edu](https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/)
+- Flame Graphs [www.brendangregg.com](https://www.brendangregg.com/flamegraphs.html)

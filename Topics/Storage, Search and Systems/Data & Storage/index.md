@@ -130,3 +130,5 @@
 - S3 Files are the changing face of S3 [www.allthingsdistributed.com](https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html)
 - What two months with the Comet community got our Spark workload on Amazon EKS [datafusion.apache.org](https://datafusion.apache.org/blog/2026/06/03/comet-eks/) about co-optimising datafusion comet for real workloads
 - Loud Sounds From Fire Alarm System Shut Down Nasdaq's Scandinavian Data Centre [bleepingcomputer.com](https://www.bleepingcomputer.com/news/technology/loud-sound-from-fire-alarm-system-shuts-down-nasdaqs-scandinavian-data-center/)
+- A Modern Primer on Processing Memory [arxiv.org](https://arxiv.org/abs/2012.03112)
+- The price of dynamic memory: Allocation [johnnysswlab.com](https://johnnysswlab.com/the-price-of-dynamic-memory-allocation/)
