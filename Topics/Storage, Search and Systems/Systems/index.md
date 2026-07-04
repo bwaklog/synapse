@@ -42,3 +42,6 @@
 - Programming Parallel Computers [ppc.cs.aalto.fi](https://ppc.cs.aalto.fi/)
 - Computational thinking by Jeannette M. Wing [dl.acm.org](https://dl.acm.org/doi/10.1145/1118178.1118215)
 - All my favourite tracing tools: eBPF, QEMU, Perfetto, new ones I built and more [thume.ca](https://thume.ca/2023/12/02/tracing-methods/)
+- Bombadil: Property-based testing for web and terminal ui [github.com/antithesishq](https://github.com/antithesishq/bombadil)
+- Building a Data Warehouse From Scratch with Jacob Baskin [youtube.com](https://www.youtube.com/watch?v=EnsZazeC1h4)
+- How we found a bug in the hyper HTTP library [blog.cloudflare.com](https://blog.cloudflare.com/hyper-bug/)

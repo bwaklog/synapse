@@ -132,3 +132,5 @@
 - Loud Sounds From Fire Alarm System Shut Down Nasdaq's Scandinavian Data Centre [bleepingcomputer.com](https://www.bleepingcomputer.com/news/technology/loud-sound-from-fire-alarm-system-shuts-down-nasdaqs-scandinavian-data-center/)
 - A Modern Primer on Processing Memory [arxiv.org](https://arxiv.org/abs/2012.03112)
 - The price of dynamic memory: Allocation [johnnysswlab.com](https://johnnysswlab.com/the-price-of-dynamic-memory-allocation/)
+- Tau: a time-series database for recording how values change over time [tau.bxrne.com](https://tau.bxrne.com/docs/how-it-works)
+- Virtual Memory From First Principles [blog.codingconfessions.com](https://blog.codingconfessions.com/p/virtual-memory?r=3w4e6&triedRedirect=true)

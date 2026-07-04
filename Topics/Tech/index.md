@@ -76,3 +76,6 @@
 - 1.5+ million PDFs in 25 minutes [zerodha.tech](https://zerodha.tech/blog/1-5-million-pdfs-in-25-minutes/)
 - CS 6120: CS 6120: Advanced Compilers: The Self-Guided Online Course [cs.cornell.edu](https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/)
 - Flame Graphs [www.brendangregg.com](https://www.brendangregg.com/flamegraphs.html)
+- Pico USB wifi - using a raspberry pi pico as a layer 2 bridge that forwards frames between the wireless interface and its usb interface [gitlab.com/baiyibai](https://gitlab.com/baiyibai/pico-usb-wifi)
+- Apple Neural Engine - Architecture, Programming and Performance [arxiv.org](https://arxiv.org/pdf/2606.22283)
+- How statically linked programs run on Linux [eli.thegreenplace.net](https://eli.thegreenplace.net/2012/08/13/how-statically-linked-programs-run-on-linux)

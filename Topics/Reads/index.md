@@ -1,1 +1,2 @@
 - The Soul of Maintaining a New Machine [books.worksinprogress.co](https://books.worksinprogress.co/book/maintenance-of-everything/communities-of-practice/the-soul-of-maintaining-a-new-machine/3)
+- 5 Lessons at 50 [muratbuffalo.blogspot.com](https://muratbuffalo.blogspot.com/2026/06/5-lessons-at-50.html)

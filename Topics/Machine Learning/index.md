@@ -11,3 +11,4 @@
 - How LLMs Actually Work [www.0xkato.xyz](https://www.0xkato.xyz/how-llms-actually-work/)
 - Can gzip be a language model [nathan.rs](https://nathan.rs/posts/gzip-lm/)
 - Language Modeling Without Neural Networks [nathan.rs](https://nathan.rs/posts/unbounded-n-gram/)
+- Tiny LLM - LLM Serving in a Week [skyzh.github.io](https://skyzh.github.io/tiny-llm/preface.html)
