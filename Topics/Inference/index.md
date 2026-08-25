@@ -1,0 +1,18 @@
+- [LLM Inference Handbook](https://handbook.modular.com/)
+- [Why Inference is hard.. - YouTube](https://www.youtube.com/watch?v=B18zBnjZKmc)
+- [SNIA SDC 2025 - KV-Cache Storage Offloading for Efficient Inference in LLMs - YouTube](https://www.youtube.com/watch?v=KkNct8xT250)
+- A curated resource list for learning AI performance engineering, from GPU fundamentals to production inference. [github.com/wafer-ai](https://github.com/wafer-ai/gpu-perf-engineering-resources#5-distributed-inference)
+- Single node inferencing mechanisms
+	- [Inside vLLM: Anatomy of a High-Throughput LLM Inference System | vLLM Blog](https://vllm.ai/blog/2025-09-05-anatomy-of-vllm)
+	- [[2309.06180] Efficient Memory Management for Large Language Model Serving with PagedAttention](https://arxiv.org/abs/2309.06180) and the vLLM paper
+	- [Orca: A Distributed Serving System for Transformer-Based Generative Models | USENIX](https://www.usenix.org/conference/osdi22/presentation/yu)
+	- [[2403.02310] Taming Throughput-Latency Tradeoff in LLM Inference with Sarathi-Serve](https://arxiv.org/abs/2403.02310)
+- Multi node disaggregation
+	- [Splitwise: Efficient generative LLM inference using phase splitting - Microsoft Research](https://www.microsoft.com/en-us/research/publication/splitwise-efficient-generative-llm-inference-using-phase-splitting/)
+	- [DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving](https://arxiv.org/html/2401.09670)
+	- [Mooncake: Trading More Storage for Less Computation — A KVCache-centric Architecture for Serving LLM Chatbot | USENIX](https://www.usenix.org/conference/fast25/presentation/qin)
+	- [[2504.03648] AIBrix: Towards Scalable, Cost-Effective Large Language Model Inference Infrastructure](https://arxiv.org/abs/2504.03648) - distributed KV Cache pool
+	- [IMPRESS: An Importance-Informed Multi-Tier Prefix KV Storage System for Large Language Model Inference | USENIX](https://www.usenix.org/conference/fast25/presentation/chen-weijian-impress)
+- Distributed inference
+	- [Serving DNNs like Clockwork: Performance Predictability from the Bottom Up | USENIX](https://www.usenix.org/conference/osdi20/presentation/gujarati)
+	- [llm-d/llm-d: Achieve state of the art inference performance with modern accelerators on Kubernetes](https://github.com/llm-d/llm-d)
