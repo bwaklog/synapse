@@ -12,3 +12,5 @@
 - Can gzip be a language model [nathan.rs](https://nathan.rs/posts/gzip-lm/)
 - Language Modeling Without Neural Networks [nathan.rs](https://nathan.rs/posts/unbounded-n-gram/)
 - Tiny LLM - LLM Serving in a Week [skyzh.github.io](https://skyzh.github.io/tiny-llm/preface.html)
+- An Agent in 100 Lines of Lisp, or How my Prof was Right - Just 25 Years Early [thebeach.dev](https://thebeach.dev/posts/lisp-agent/)
+- Modern GPU Programming for MLSys [mlc.ai](https://mlc.ai/modern-gpu-programming-for-mlsys/#)

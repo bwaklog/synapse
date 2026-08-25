@@ -3,6 +3,8 @@
 - Go Lang related content [[Topics/Languages/Golang/index|index]]
 - Zig related content [[Topics/Languages/Zig/index|index]]
 ## Uncategorised links
+- [Write a hash table in C](https://github.com/jamesroutley/write-a-hash-table)
+- [Unix system programming in OCaml](https://ocaml.github.io/ocamlunix/index.html)
 - [Kerkour - Rust vs Go Concurrency models - Stackless vs Stackless coroutines](https://kerkour.com/rust-vs-go-concurrency-models-stackfull-vs-stackless-coroutines)
 - [Bob Nystrom - What Color Is your Function](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/)
 - [Bob Nystrom - Iteration Inside and Out](https://journal.stuffwithstuff.com/2013/01/13/iteration-inside-and-out/)

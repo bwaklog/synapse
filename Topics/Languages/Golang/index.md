@@ -27,3 +27,5 @@
 - Rust threads on the GPU [vectorware.com](https://www.vectorware.com/blog/threads-on-gpu/)
 - Polymorphic, Recursive Interfaces Using Go Generics [multithreaded.stitchfix.com](https://multithreaded.stitchfix.com/blog/2023/02/01/go-polymorphic-interfaces/)
 - Tracing HTTP Requests with Go's `net/http/httptrace` [blainsmith.com](https://blainsmith.com/articles/httptrace-with-go/)
+- Zero-copy in Go: sendfile, splice, and the cost of `io.Copy` [segflow.github.io](https://segflow.github.io/post/zero-copy-sendfile-splice/)
+- Go 1.27 interactive tour [victoriametrics.com](https://victoriametrics.com/blog/go-1-27/index.html)

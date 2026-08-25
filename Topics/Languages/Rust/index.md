@@ -26,3 +26,4 @@
 - Nihal Pasham playlist on CubeCL, pure rust GPU kernels [youtube.com](https://www.youtube.com/playlist?list=PLIUa1VcxJuwlI5sg8M8MH6FgzBzUWuAFI)
 - Nihal Pasham - instrumenting linux kernel with eBPF and Rust [youtube.com](https://www.youtube.com/watch?v=VtjbokLhsaw&list=PLIUa1VcxJuwl_VTCaI9HLfolb_y6Y1Mwt&index=1)
 - Nihal Pasham playlist on working with the Vulkan API and Rust [youtube.com](https://www.youtube.com/playlist?list=PLIUa1VcxJuwkVglGj0AOhjMugI7yqGZ0e)
+- Verifying Dynamic Trait Objects in Rust [dl.acm.org](https://dl.acm.org/doi/pdf/10.1145/3510457.3513031?__cf_chl_f_tk=5ZS8.rN.XNNYu5JTPF8K8KcaD1PXWA8mEVpWFWqI_ZI-1783369078-1.0.1.1-TgdM1tNxoT7XX.3LDNdDX.Jejf7LVAAyOjjrWlVTBfQ)

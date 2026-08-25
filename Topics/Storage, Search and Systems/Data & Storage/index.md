@@ -98,7 +98,7 @@
 - video by matklad @ tigerbeetle [youtube.com](https://www.youtube.com/watch?v=wM_Rq6gq9L0) 
 - Writing a SQL Database, takes two: Zig and Rocks DB [notes.eatonphil.com](https://notes.eatonphil.com/zigrocks-sql.html)
 - Building a serverless ACID database with one neat trick (atomic PutIfAbsent) [notes.eatonphil.com](https://notes.eatonphil.com/2024-09-29-build-a-serverless-acid-database-with-this-one-neat-trick.html)
-- Implementing MVCC and major SQL transaction isolation levels [notes.eatonphil.com](https://notes.eatonphil.com/2024-05-16-mvcc.html
+- Implementing MVCC and major SQL transaction isolation levels [notes.eatonphil.com](https://notes.eatonphil.com/2024-05-16-mvcc.html)
 - But how, exactly, databases use mmpa [brunocalza.medium.com](https://brunocalza.medium.com/but-how-exactly-databases-use-mmap-e37a7ef4f63b) (supporting hackernews article [25881911](https://news.ycombinator.com/item?id=25881911))
 - How does one do Raw IO on Mac OS X? (ie. equivalent to Linux's O_DIRECT flag) [stackoverflow.com](https://stackoverflow.com/questions/2299402/how-does-one-do-raw-io-on-mac-os-x-ie-equivalent-to-linuxs-o-direct-flag)
 - `darwin-xnu/bsd/vfs/vfs_cluster.c` comment on `MIN_DIRECT_WRITE_SIZE` set to 16384 governing how much I/O should be allowed before considering to allow the caller to bypass the buffer cache, not allowing I/O less than 16k to bypass the UBC [github.com/apple/darwin-xnu](https://github.com/apple/darwin-xnu/blob/8f02f2a044b9bb1ad951987ef5bab20ec9486310/bsd/vfs/vfs_cluster.c#L271-L275)
@@ -134,3 +134,6 @@
 - The price of dynamic memory: Allocation [johnnysswlab.com](https://johnnysswlab.com/the-price-of-dynamic-memory-allocation/)
 - Tau: a time-series database for recording how values change over time [tau.bxrne.com](https://tau.bxrne.com/docs/how-it-works)
 - Virtual Memory From First Principles [blog.codingconfessions.com](https://blog.codingconfessions.com/p/virtual-memory?r=3w4e6&triedRedirect=true)
+- Meta’s AI Storage Blueprint at Scale [engineering.fb.com](https://engineering.fb.com/2026/07/01/data-infrastructure/metas-ai-storage-blueprint-at-scale/)
+- RisingWave - real time event streaming platform based on S3, a distributed LSM tree based on S3 for storage [foyer-rs.github.io](https://foyer-rs.github.io/foyer/docs/case-study/risingwave)
+- It's always TCP_NODELAY. Every damn time. [brooker.co.za](https://brooker.co.za/blog/2024/05/09/nagle.html)

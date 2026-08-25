@@ -6,3 +6,4 @@
 - Zig book [pedropark99.github.io/zig-book](https://pedropark99.github.io/zig-book/Chapters/01-zig-weird.html)
 - Static Allocation with Zig - _Introducting kv, a statically allocated key/value server_ [nickmonad.blog](https://nickmonad.blog/2025/static-allocation-with-zig-kv/)
 - Zig by example [github.com/boringcollege](https://github.com/boringcollege/zig-by-example)
+- `xorshift32` rng https://ziggit.dev/t/proposal-add-a-simple-prng-provider-to-std-process-init-zig-0-16-juicy-main/13877/3
