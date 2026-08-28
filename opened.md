@@ -41,9 +41,11 @@
 	- [The distributed machine | Temporal](https://temporal.io/blog/the-distributed-machine#what-does-any-of-this-have-to-do-with-temporal)
 	- [Understanding the limitations of pubsub systems - 3713082.3730397.pdf](https://dl.acm.org/doi/pdf/10.1145/3713082.3730397)
 	- [Testing a single-node, single threaded, distributed system written in 1985 - YouTube](https://www.youtube.com/watch?v=zc4cqtibTzs)
+	- [How Kubernetes probes work | ngrok blog](https://ngrok.com/blog/probes)
 - Databases
 	- [Poisoned Postgres connection pools — PlanetScale](https://planetscale.com/blog/postgres-poisoned-connection-pools)
 	- [Can Applications Recover from fsync Failures? | USENIX](https://www.usenix.org/conference/atc20/presentation/rebello)
+	- [Fsyncgate: errors on fsync are unrecovarable](https://danluu.com/fsyncgate/)
 	- [Accelerating String-Heavy Queries with LLM Token Tables](https://db.in.tum.de/~schmidt/papers/token.pdf) TUM paper
 	- [CloudJump III: Optimizing Cloud Databases for Tiered Storage - 3788853.3803084.pdf](https://dl.acm.org/doi/pdf/10.1145/3788853.3803084)
 	- [High-Performance DBMSs with io_uring: When and How to use it - 2512.04859v3.pdf](https://arxiv.org/pdf/2512.04859)
@@ -54,7 +56,6 @@
 - [Computers Compared · Fly](https://fly.io/computers-compared)
 - [Gisting: Compressing LLM Agent context to ↑ throughput and ↓ cost (2026) - Shopify](https://shopify.engineering/gisting)
 - [Rebuilding Linear’s delta sync read path](https://linear.app/now/rebuilding-delta-sync-read-path)
-- [Fsyncgate: errors on fsync are unrecovarable](https://danluu.com/fsyncgate/)
 - [Software engineering at a proprietary trading company: Optiver](https://newsletter.pragmaticengineer.com/p/optiver)
 - [The Impossible Optimization, and the Metaprogramming To Achieve It](https://verdagon.dev/blog/impossible-optimization)
 - [We Taught sqlc to Invalidate Our Caches - exe.dev blog](https://blog.exe.dev/we-taught-sqlc-to-invalidate-our-caches)
@@ -63,7 +64,6 @@
 - [We replaced Redis with MySQL for inventory reservations—and it scaled (2026) - Shopify](https://shopify.engineering/scaling-inventory-reservations)
 - [You Don’t Have a GIL Problem — You Have a CPU Problem | by Prashant Pathak | Medium](https://medium.com/@prashant_pathak/you-dont-have-a-gil-problem-you-have-a-cpu-problem-24deeadfea4a)
 - [Python 3.14 garbage collection rigamarole - The Consensus](https://theconsensus.dev/p/2026/06/06/python-3-14-garbage-collection-rigamarole.html)
-- [How Kubernetes probes work | ngrok blog](https://ngrok.com/blog/probes)
 - [Pikuma: SIMD in the 90s: Programming Intel's Pentium MMX](https://pikuma.com/blog/programming-intel-pentium-mmx-simd)
 - [Almost consensus: ABD and the edges of quorum replication - The Consensus](https://theconsensus.dev/p/2026/08/02/almost-consensus.html)
 	- [Sharing memory robustly in message-passing systems | Journal of the ACM](https://dl.acm.org/doi/10.1145/200836.200869?from_theconsensus=1)
@@ -77,3 +77,5 @@
 - [There's no reason for software to be slow anymore](https://danluu.com/perf-opt/)
 
 ## Non Technical
+- [About | Juno Coffee Club](https://junocoffeeclub.com/about/)
+- [Tiger Reserve Coffee Beans – Hunkal Estate Coffee](https://www.hunkalestatecoffee.com/products/tiger-reserve-coffee-beans)
