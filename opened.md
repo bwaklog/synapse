@@ -50,9 +50,11 @@
 	- [CloudJump III: Optimizing Cloud Databases for Tiered Storage - 3788853.3803084.pdf](https://dl.acm.org/doi/pdf/10.1145/3788853.3803084)
 	- [High-Performance DBMSs with io_uring: When and How to use it - 2512.04859v3.pdf](https://arxiv.org/pdf/2512.04859)
 	- [Our own worst best customer | Antithesis](https://antithesis.com/blog/2025/testing_pangolin/)
+	- [HorizonDB: Co‑Designing PostgreSQL and Azure for Cloud‑Native OLTP (Adam Prout) - YouTube](https://www.youtube.com/watch?v=EdgeqeW47_w)
 - AI Chips manufacturing
 	- [AI Chip Architectures - Jacob Peake](https://www.jacobpeake.com/ai-chip-architectures)
 	- [Chip design from the bottom up – Reiner Pope - YouTube](https://www.youtube.com/watch?v=oIk3R-sMX5o) 
+- [20 Years on AWS and Never Not My Job](https://www.daemonology.net/blog/2026-04-11-20-years-on-AWS-and-never-not-my-job.html)
 - [Computers Compared · Fly](https://fly.io/computers-compared)
 - [Gisting: Compressing LLM Agent context to ↑ throughput and ↓ cost (2026) - Shopify](https://shopify.engineering/gisting)
 - [Rebuilding Linear’s delta sync read path](https://linear.app/now/rebuilding-delta-sync-read-path)
@@ -75,7 +77,10 @@
 - [How Complex Systems Fail](https://how.complexsystems.fail/)
 - [The Mature Optimization Handbook](https://carlos.bueno.org/optimization/)
 - [There's no reason for software to be slow anymore](https://danluu.com/perf-opt/)
-
+- [How I Find Problems to Solve as a Staff Engineer - Lalit Maganti](https://lalitm.com/post/find-problems-staff-engineer/)
+- The ryg blog on cache contention and coherence
+	- [Atomic operations and contention | The ryg blog](https://fgiesen.wordpress.com/2014/08/18/atomics-and-contention/)
+	- [Cache coherency primer | The ryg blog](https://fgiesen.wordpress.com/2014/07/07/cache-coherency/)
 ## Non Technical
 - [About | Juno Coffee Club](https://junocoffeeclub.com/about/)
 - [Tiger Reserve Coffee Beans – Hunkal Estate Coffee](https://www.hunkalestatecoffee.com/products/tiger-reserve-coffee-beans)
