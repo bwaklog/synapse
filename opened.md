@@ -42,7 +42,7 @@
 	- [Understanding the limitations of pubsub systems - 3713082.3730397.pdf](https://dl.acm.org/doi/pdf/10.1145/3713082.3730397)
 	- [Testing a single-node, single threaded, distributed system written in 1985 - YouTube](https://www.youtube.com/watch?v=zc4cqtibTzs)
 	- [How Kubernetes probes work | ngrok blog](https://ngrok.com/blog/probes)
-- Databases
+- Databases and Storage
 	- [Poisoned Postgres connection pools — PlanetScale](https://planetscale.com/blog/postgres-poisoned-connection-pools)
 	- [Can Applications Recover from fsync Failures? | USENIX](https://www.usenix.org/conference/atc20/presentation/rebello)
 	- [Fsyncgate: errors on fsync are unrecovarable](https://danluu.com/fsyncgate/)
@@ -51,6 +51,9 @@
 	- [High-Performance DBMSs with io_uring: When and How to use it - 2512.04859v3.pdf](https://arxiv.org/pdf/2512.04859)
 	- [Our own worst best customer | Antithesis](https://antithesis.com/blog/2025/testing_pangolin/)
 	- [HorizonDB: Co‑Designing PostgreSQL and Azure for Cloud‑Native OLTP (Adam Prout) - YouTube](https://www.youtube.com/watch?v=EdgeqeW47_w)
+	- [How to Write to SSDs](https://arxiv.org/html/2603.09927v3#S1) paper
+	- [BtrLog: Low-Latency Logging for Cloud Database Systems](https://arxiv.org/html/2606.27051v2) paper
+	- [Scaling Memcache at Facebook](https://research.facebook.com/file/839620310074473/scaling-memcache-at-facebook.pdf)
 - AI Chips manufacturing
 	- [AI Chip Architectures - Jacob Peake](https://www.jacobpeake.com/ai-chip-architectures)
 	- [Chip design from the bottom up – Reiner Pope - YouTube](https://www.youtube.com/watch?v=oIk3R-sMX5o) 
@@ -82,5 +85,6 @@
 	- [Atomic operations and contention | The ryg blog](https://fgiesen.wordpress.com/2014/08/18/atomics-and-contention/)
 	- [Cache coherency primer | The ryg blog](https://fgiesen.wordpress.com/2014/07/07/cache-coherency/)
 ## Non Technical
-- [About | Juno Coffee Club](https://junocoffeeclub.com/about/)
-- [Tiger Reserve Coffee Beans – Hunkal Estate Coffee](https://www.hunkalestatecoffee.com/products/tiger-reserve-coffee-beans)
+- Coffee
+	- [About | Juno Coffee Club](https://junocoffeeclub.com/about/)
+	- [Tiger Reserve Coffee Beans – Hunkal Estate Coffee](https://www.hunkalestatecoffee.com/products/tiger-reserve-coffee-beans)
