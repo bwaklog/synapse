@@ -1,6 +1,7 @@
 - [LLM Inference Handbook](https://handbook.modular.com/)
 - [Why Inference is hard.. - YouTube](https://www.youtube.com/watch?v=B18zBnjZKmc)
 - [SNIA SDC 2025 - KV-Cache Storage Offloading for Efficient Inference in LLMs - YouTube](https://www.youtube.com/watch?v=KkNct8xT250)
+- LLM Inference Optimisation [jonasgeiping.github.io](https://jonasgeiping.github.io/teaching/llm-inference-seminar/#prerequisites)
 - A curated resource list for learning AI performance engineering, from GPU fundamentals to production inference. [github.com/wafer-ai](https://github.com/wafer-ai/gpu-perf-engineering-resources#5-distributed-inference)
 - Single node inferencing mechanisms
 	- [Inside vLLM: Anatomy of a High-Throughput LLM Inference System | vLLM Blog](https://vllm.ai/blog/2025-09-05-anatomy-of-vllm)

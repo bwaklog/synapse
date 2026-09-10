@@ -5,8 +5,6 @@
 	- [tigerbeetle/docs/internals/vopr.md at 0.17.2 · tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle/blob/0.17.2/docs/internals/vopr.md)
 	- [How I Downgraded a Safety Bug to an Availability Bug...Using Assertions! - YouTube](https://www.youtube.com/watch?v=wLdDW3u8eww)
 	- [Protocol-aware deterministic simulation testing | Chaitanya Bhandari | Bug Bash 2026 - YouTube](https://www.youtube.com/watch?v=F78FeuSIX-A)
-- [Architecture — FoundationDB ON documentation](https://apple.github.io/foundationdb/architecture.html)
-- [How to ship a database every day](https://turbopuffer.com/blog/control-plane)
 - Dropbox and its magic pocket
 	- [Scaling to exabytes and beyond - Dropbox](https://dropbox.tech/infrastructure/magic-pocket-infrastructure)
 	- [Inside the Magic Pocket - Dropbox](https://dropbox.tech/infrastructure/inside-the-magic-pocket)
@@ -20,6 +18,7 @@
 	- [Designing inverted indexes in a KV-store on object storage](https://turbopuffer.com/blog/fts-v2-postings)
 	- [How to build a distributed queue in a single JSON file on object storage](https://turbopuffer.com/blog/object-storage-queue)
 	- [wal3: A Write-Ahead Log for Chroma, Build on Object Storage | Chroma](https://www.trychroma.com/engineering/wal3)
+	- [Object Storage Is All You Need - Justin Cormack, Docker - YouTube](https://www.youtube.com/watch?v=ei0wwTy6_G4)
 - Aurora DSQL
 	- [[2607.13276v2] Aurora DSQL: Scalable, Multi-Region OLTP](https://arxiv.org/abs/2607.13276v2)
 	- [Aurora DSQL: Scalable, Multi-Region OLTP](https://muratbuffalo.blogspot.com/2026/07/aurora-dsql-scalable-multi-region-oltp.html) - Murat's Blog
@@ -42,7 +41,16 @@
 	- [Understanding the limitations of pubsub systems - 3713082.3730397.pdf](https://dl.acm.org/doi/pdf/10.1145/3713082.3730397)
 	- [Testing a single-node, single threaded, distributed system written in 1985 - YouTube](https://www.youtube.com/watch?v=zc4cqtibTzs)
 	- [How Kubernetes probes work | ngrok blog](https://ngrok.com/blog/probes)
+	- [Learning about distributed systems: where to start?](https://muratbuffalo.blogspot.com/2020/06/learning-about-distributed-systems.html)
 - Databases and Storage
+	- [How to Write to SSDs](https://arxiv.org/html/2603.09927v3#S1) paper
+	- [BtrLog: Low-Latency Logging for Cloud Database Systems](https://arxiv.org/html/2606.27051v2) paper
+	- [Scaling Memcache at Facebook](https://research.facebook.com/file/839620310074473/scaling-memcache-at-facebook.pdf)
+	- [Millions of tiny databases - Amazon Science](https://www.amazon.science/publications/millions-of-tiny-databases)
+	- [FASTER: A Concurrent Key-Value Store with In-Place Updates - faster-sigmod18.pdf](https://www.microsoft.com/en-us/research/wp-content/uploads/2018/03/faster-sigmod18.pdf)
+	- Gartner: A Next-Generation Cache-Store for Accelerating Applications and Services [garnet-vldb2026.pdf](https://badrish.net/papers/garnet-vldb2026.pdf)
+	- Lessons from Operating a Large-Scale Distributed Database with a Replicated Key-Value Store Engine [fast27spring_prepub-ahn.pdf](https://www.usenix.org/system/files/conference/fast27/fast27spring_prepub-ahn.pdf)
+	- [Architecture — FoundationDB ON documentation](https://apple.github.io/foundationdb/architecture.html)
 	- [Poisoned Postgres connection pools — PlanetScale](https://planetscale.com/blog/postgres-poisoned-connection-pools)
 	- [Can Applications Recover from fsync Failures? | USENIX](https://www.usenix.org/conference/atc20/presentation/rebello)
 	- [Fsyncgate: errors on fsync are unrecovarable](https://danluu.com/fsyncgate/)
@@ -51,12 +59,15 @@
 	- [High-Performance DBMSs with io_uring: When and How to use it - 2512.04859v3.pdf](https://arxiv.org/pdf/2512.04859)
 	- [Our own worst best customer | Antithesis](https://antithesis.com/blog/2025/testing_pangolin/)
 	- [HorizonDB: Co‑Designing PostgreSQL and Azure for Cloud‑Native OLTP (Adam Prout) - YouTube](https://www.youtube.com/watch?v=EdgeqeW47_w)
-	- [How to Write to SSDs](https://arxiv.org/html/2603.09927v3#S1) paper
-	- [BtrLog: Low-Latency Logging for Cloud Database Systems](https://arxiv.org/html/2606.27051v2) paper
-	- [Scaling Memcache at Facebook](https://research.facebook.com/file/839620310074473/scaling-memcache-at-facebook.pdf)
+	- [Making 768 servers look like 1 — PlanetScale](https://planetscale.com/blog/making-768-servers-look-like-1)
+	- [How to ship a database every day](https://turbopuffer.com/blog/control-plane)
+	- [We replaced Redis with MySQL for inventory reservations—and it scaled (2026) - Shopify](https://shopify.engineering/scaling-inventory-reservations)
 - AI Chips manufacturing
 	- [AI Chip Architectures - Jacob Peake](https://www.jacobpeake.com/ai-chip-architectures)
 	- [Chip design from the bottom up – Reiner Pope - YouTube](https://www.youtube.com/watch?v=oIk3R-sMX5o) 
+- [A Design Space Exploration of Async/Await | Cognitive Engineering Lab](https://cel.cs.brown.edu/blog/design-space-async-await/)
+- [Lockless MPSC FIFO queues for io_uring [LWN.net]](https://lwn.net/Articles/1081871/)
+- [Reliability, constant work, and a good cup of coffee | AWS Builder Center](https://builder.aws.com/content/3F05oqNtNUWxHJ5r6L6I2HrH4rI/reliability-constant-work-and-a-good-cup-of-coffee)
 - [20 Years on AWS and Never Not My Job](https://www.daemonology.net/blog/2026-04-11-20-years-on-AWS-and-never-not-my-job.html)
 - [Computers Compared · Fly](https://fly.io/computers-compared)
 - [Gisting: Compressing LLM Agent context to ↑ throughput and ↓ cost (2026) - Shopify](https://shopify.engineering/gisting)
@@ -64,12 +75,12 @@
 - [Software engineering at a proprietary trading company: Optiver](https://newsletter.pragmaticengineer.com/p/optiver)
 - [The Impossible Optimization, and the Metaprogramming To Achieve It](https://verdagon.dev/blog/impossible-optimization)
 - [We Taught sqlc to Invalidate Our Caches - exe.dev blog](https://blog.exe.dev/we-taught-sqlc-to-invalidate-our-caches)
-- [Object Storage Is All You Need - Justin Cormack, Docker - YouTube](https://www.youtube.com/watch?v=ei0wwTy6_G4)
 - [When Network is Faster than Cache — Simon Hearne](https://simonhearne.com/2020/network-faster-than-cache/)
 - [We replaced Redis with MySQL for inventory reservations—and it scaled (2026) - Shopify](https://shopify.engineering/scaling-inventory-reservations)
 - [You Don’t Have a GIL Problem — You Have a CPU Problem | by Prashant Pathak | Medium](https://medium.com/@prashant_pathak/you-dont-have-a-gil-problem-you-have-a-cpu-problem-24deeadfea4a)
 - [Python 3.14 garbage collection rigamarole - The Consensus](https://theconsensus.dev/p/2026/06/06/python-3-14-garbage-collection-rigamarole.html)
 - [Pikuma: SIMD in the 90s: Programming Intel's Pentium MMX](https://pikuma.com/blog/programming-intel-pentium-mmx-simd)
+- [What's the big deal about Deterministic Simulation Testing? | notes.eatonphil.com](https://notes.eatonphil.com/2024-08-20-deterministic-simulation-testing.html)
 - [Almost consensus: ABD and the edges of quorum replication - The Consensus](https://theconsensus.dev/p/2026/08/02/almost-consensus.html)
 	- [Sharing memory robustly in message-passing systems | Journal of the ACM](https://dl.acm.org/doi/10.1145/200836.200869?from_theconsensus=1)
 	- [Replicated/Fault-tolerant atomic storage](https://muratbuffalo.blogspot.com/2012/05/replicatedfault-tolerant-atomic-storage.html?from_theconsensus=1)
@@ -84,6 +95,7 @@
 - The ryg blog on cache contention and coherence
 	- [Atomic operations and contention | The ryg blog](https://fgiesen.wordpress.com/2014/08/18/atomics-and-contention/)
 	- [Cache coherency primer | The ryg blog](https://fgiesen.wordpress.com/2014/07/07/cache-coherency/)
+- Rust: When Empty Isn't Bottom [ettolrach.com](https://ettolrach.com/blog/rust_when_empty_isnt_bottom.html)
 ## Non Technical
 - Coffee
 	- [About | Juno Coffee Club](https://junocoffeeclub.com/about/)
