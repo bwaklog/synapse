@@ -1,8 +1,10 @@
-## Categorised topics
-- Rust related content [[Topics/Languages/Rust/index|index]]
-- Go Lang related content [[Topics/Languages/Golang/index|index]]
-- Zig related content [[Topics/Languages/Zig/index|index]]
-## Uncategorised links
+- Sanitizers
+	- Data races and the limits of TSAN in C and Go [theconsensus.dev](https://theconsensus.dev/p/2026/09/06/data-races-and-the-limits-of-threadsanitizer-in-c-and-go.html?focus=1)
+	- Clang ThreadSanitizer [clang.llvm.org](https://clang.llvm.org/docs/ThreadSanitizer.html)
+	- ThreadSanitizer: Slaughtering Data Races [testing.googleblog.com](https://testing.googleblog.com/2014/06/threadsanitizer-slaughtering-data-races.html)
+	- Clang Sanitizers [clang.llvm.org](https://clang.llvm.org/docs/search.html?q=Sanitizer&check_keywords=yes&area=default)
+	- TSan and ASan [www.mono-project.com](https://www.mono-project.com/docs/debug+profile/clang/)
+	- CppCon 2014: Kostya Serebryany "Sanitize your C++ code" [youtu.be](https://youtu.be/V2_80g0eOMc?si=FDQ3j4scuKDwU9eA)
 - [Write a hash table in C](https://github.com/jamesroutley/write-a-hash-table)
 - [Unix system programming in OCaml](https://ocaml.github.io/ocamlunix/index.html)
 - [Kerkour - Rust vs Go Concurrency models - Stackless vs Stackless coroutines](https://kerkour.com/rust-vs-go-concurrency-models-stackfull-vs-stackless-coroutines)

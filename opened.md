@@ -51,6 +51,7 @@
 	- Gartner: A Next-Generation Cache-Store for Accelerating Applications and Services [garnet-vldb2026.pdf](https://badrish.net/papers/garnet-vldb2026.pdf)
 	- Lessons from Operating a Large-Scale Distributed Database with a Replicated Key-Value Store Engine [fast27spring_prepub-ahn.pdf](https://www.usenix.org/system/files/conference/fast27/fast27spring_prepub-ahn.pdf)
 	- [Architecture — FoundationDB ON documentation](https://apple.github.io/foundationdb/architecture.html)
+	- [The architecture of a distributed SQL database, part 1: Converting SQL to a KV store](https://www.cockroachlabs.com/blog/distributed-sql-key-value-store/)
 	- [Poisoned Postgres connection pools — PlanetScale](https://planetscale.com/blog/postgres-poisoned-connection-pools)
 	- [Can Applications Recover from fsync Failures? | USENIX](https://www.usenix.org/conference/atc20/presentation/rebello)
 	- [Fsyncgate: errors on fsync are unrecovarable](https://danluu.com/fsyncgate/)

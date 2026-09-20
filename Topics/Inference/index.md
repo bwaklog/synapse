@@ -3,6 +3,9 @@
 - [SNIA SDC 2025 - KV-Cache Storage Offloading for Efficient Inference in LLMs - YouTube](https://www.youtube.com/watch?v=KkNct8xT250)
 - LLM Inference Optimisation [jonasgeiping.github.io](https://jonasgeiping.github.io/teaching/llm-inference-seminar/#prerequisites)
 - A curated resource list for learning AI performance engineering, from GPU fundamentals to production inference. [github.com/wafer-ai](https://github.com/wafer-ai/gpu-perf-engineering-resources#5-distributed-inference)
+- tiny-vllm: Build your own high performance LLM inference engine in C++ and CUDA - a smaller version of vLLM [github.com/jmaczan](https://github.com/jmaczan/tiny-vllm)
+- RL is Everything, Everywhere, All at Once [skypilot.ai](https://skypilot.ai/blog/rl-everything)
+- The Illustrated Transformer [jalammar.github.io](https://jalammar.github.io/illustrated-transformer/)
 - Single node inferencing mechanisms
 	- [Inside vLLM: Anatomy of a High-Throughput LLM Inference System | vLLM Blog](https://vllm.ai/blog/2025-09-05-anatomy-of-vllm)
 	- [[2309.06180] Efficient Memory Management for Large Language Model Serving with PagedAttention](https://arxiv.org/abs/2309.06180) and the vLLM paper

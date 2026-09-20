@@ -29,3 +29,4 @@
 - Tracing HTTP Requests with Go's `net/http/httptrace` [blainsmith.com](https://blainsmith.com/articles/httptrace-with-go/)
 - Zero-copy in Go: sendfile, splice, and the cost of `io.Copy` [segflow.github.io](https://segflow.github.io/post/zero-copy-sendfile-splice/)
 - Go 1.27 interactive tour [victoriametrics.com](https://victoriametrics.com/blog/go-1-27/index.html)
+- gokrazy GO Applications, using its own userland instead of linux dist bases - [gokrazy.org](https://gokrazy.org), [github.com/gokrazy](https://github.com/gokrazy/gokrazy)

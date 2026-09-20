@@ -1,3 +1,5 @@
+- Machine Learning Engineering Open Book [github.com/stas00](https://github.com/stas00/ml-engineering)
+- Machine Learning: LLM/VLM Training and Engineering by Stas Bekman [stasosphere.com](https://stasosphere.com/machine-learning/)
 - Understanding LSTM Networks [colah.github.io](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 - Autograd - automatically differentiate native Python and Numpy code [github.com/HIPS/autograd](https://github.com/HIPS/autograd)
 - IOP Systems blogs [iop.systems](https://iop.systems/blog/llm-inference/)

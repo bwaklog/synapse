@@ -85,3 +85,4 @@
 - Set Up Network Address Translation (NAT) for a Container [labs.iximiuz.com](https://labs.iximiuz.com/challenges/set-up-nat-for-container)
 - So, What is a Build System Anyway? [mattboisvert.net](https://mattboisvert.net/blog/so-what-is-a-build-system-for-anyway)
 - `tcltest` package distributed with Tcl, provides a framework for writing and executing program tests [wiki.tcl-lang.org](https://wiki.tcl-lang.org/page/tcltest)
+- Optimising a spin-lock [david.alvarezrosa.com](https://david.alvarezrosa.com/posts/optimizing-a-spin-lock/)
