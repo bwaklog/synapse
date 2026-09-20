@@ -1,0 +1,1 @@
+Notes made while reading Designing Data-Intensive Applications (2e) by Martin Kleppman & Chris Riccomini. ([link](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781098119058/)). The notes are organised as chapters according to the TOC specified by the book.
