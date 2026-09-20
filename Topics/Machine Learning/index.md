@@ -1,3 +1,4 @@
+- [Ternary Weights, 3-Bit KV Caches, and the Limits of Quantization | Bangalore Paper Club - YouTube](https://www.youtube.com/watch?v=HT0KdjrDa_I)
 - Machine Learning Engineering Open Book [github.com/stas00](https://github.com/stas00/ml-engineering)
 - Machine Learning: LLM/VLM Training and Engineering by Stas Bekman [stasosphere.com](https://stasosphere.com/machine-learning/)
 - Understanding LSTM Networks [colah.github.io](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)

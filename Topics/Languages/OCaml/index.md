@@ -1,0 +1,3 @@
+- [OCaml Programming: Correct + Efficient + Beautiful — OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/cover.html)
+- [Real World OCaml](https://dev.realworldocaml.org/index.html)
+- [Evolving the OCaml programming language - YouTube](https://www.youtube.com/watch?v=9VxwfNVF4c4) by KC Sivaramakrishnan at IndiaFOSS

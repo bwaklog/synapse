@@ -1,3 +1,4 @@
+- [AeneasVerif/aeneas: A verification toolchain for Rust programs](https://github.com/AeneasVerif/aeneas)
 - [Kerkour - Rust async/await and what is a runtime ](https://kerkour.com/rust-async-await-what-is-a-runtime)
 - [Without Boats - Why Async Rust](https://without.boats/blog/why-async-rust/)
 - [Making the Tokio Runtime 10x Faster](https://tokio.rs/blog/2019-10-scheduler)

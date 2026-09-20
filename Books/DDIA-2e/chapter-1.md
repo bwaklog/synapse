@@ -1,0 +1,11 @@
+References and Additional Links
+- HTAP Databases: A Survey [2404.15670v1.pdf](https://arxiv.org/pdf/2404.15670)
+- "One Size Fits All": An Idea Whose Time Has Come and Gone [fits_all.pdf](https://pages.cs.wisc.edu/~shivaram/cs744-readings/fits_all.pdf)
+- What is Reverse ETL? The Definitive Guide [hightouch.com](https://hightouch.com/blog/reverse-etl) 
+- Databricks paper - Lakehouse: A New Generation of Open Platforms that Unify Data Warehousing and Advanced Analytics [cidr2021_paper17.pdf](https://www.cidrdb.org/cidr2021/papers/cidr2021_paper17.pdf)
+- [Databricks Unity Catalog table types | Databricks on AWS](https://docs.databricks.com/aws/en/tables/types)
+- [Apache Pinot, Druid, and Clickhouse Comparison | StarTree](https://startree.ai/resources/a-tale-of-three-real-time-olap-databases/)
+- [Apache Pinot, Druid, and Clickhouse Comparison | StarTree](https://startree.ai/resources/a-tale-of-three-real-time-olap-databases/)
+- [The Sushi Principle: Raw Data Is Better - Joseph Adler and Robert Johnson - Strata + Hadoop World San Jose 2015: Video Compilation [Video]](https://www.oreilly.com/videos/strata-hadoop/9781491924143/9781491924143-video210840/)
+- [What is a Data Lakehouse? | Databricks](https://www.databricks.com/blog/what-is-data-lakehouse)
+- [Understanding Parquet, Iceberg and Data Lakehouses at Broad](https://davidgomes.com/understanding-parquet-iceberg-and-data-lakehouses-at-broad/)
