@@ -66,6 +66,8 @@
 - AI Chips manufacturing
 	- [AI Chip Architectures - Jacob Peake](https://www.jacobpeake.com/ai-chip-architectures)
 	- [Chip design from the bottom up – Reiner Pope - YouTube](https://www.youtube.com/watch?v=oIk3R-sMX5o) 
+- [Static Allocation, Constant Work](https://matklad.github.io/2026/09/02/static-allocation-constant-work.html)
+- [Reliability, constant work, and a good cup of coffee | AWS Builder Center](https://builder.aws.com/content/3F05oqNtNUWxHJ5r6L6I2HrH4rI/reliability-constant-work-and-a-good-cup-of-coffee)
 - [A Design Space Exploration of Async/Await | Cognitive Engineering Lab](https://cel.cs.brown.edu/blog/design-space-async-await/)
 - [Lockless MPSC FIFO queues for io_uring [LWN.net]](https://lwn.net/Articles/1081871/)
 - [Reliability, constant work, and a good cup of coffee | AWS Builder Center](https://builder.aws.com/content/3F05oqNtNUWxHJ5r6L6I2HrH4rI/reliability-constant-work-and-a-good-cup-of-coffee)
