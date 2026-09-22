@@ -7,3 +7,6 @@
 - Static Allocation with Zig - _Introducting kv, a statically allocated key/value server_ [nickmonad.blog](https://nickmonad.blog/2025/static-allocation-with-zig-kv/)
 - Zig by example [github.com/boringcollege](https://github.com/boringcollege/zig-by-example)
 - `xorshift32` rng https://ziggit.dev/t/proposal-add-a-simple-prng-provider-to-std-process-init-zig-0-16-juicy-main/13877/3
+- [Zig's New Async I/O](https://kristoff.it/blog/zig-new-async-io/)
+- [Zig Showtime - 2026 Roadmap](https://www.youtube.com/watch?v=x3hOiOcbgeA)
+- [What Zig felt like, coming from Rust | besok](https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/)

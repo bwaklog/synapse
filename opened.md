@@ -11,6 +11,7 @@
 	- [Improving storage efficiency in Magic Pocket, our immutable blob store - Dropbox](https://dropbox.tech/infrastructure/improving-storage-efficiency-in-magic-pocket-our-immutable-blob-store)
 	- Some other really interesting ones [Infrastructure - Dropbox](https://dropbox.tech/infrastructure)
 - S3 & Object Storages
+	- [Building a Database on S3](https://muratbuffalo.blogspot.com/2026/03/building-database-on-s3.html?m=1)
 	- [FAST '23 - Building and Operating a Pretty Big Storage System (My Adventures in Amazon S3) - YouTube](https://www.youtube.com/watch?v=sc3J4McebHE)
 	- [Building and operating a pretty big storage system called S3 | All Things Distributed](https://www.allthingsdistributed.com/2023/07/building-and-operating-a-pretty-big-storage-system.html)
 	- [Diving Deep on S3 Consistency | All Things Distributed](https://www.allthingsdistributed.com/2021/04/s3-strong-consistency.html)
@@ -42,6 +43,7 @@
 	- [Testing a single-node, single threaded, distributed system written in 1985 - YouTube](https://www.youtube.com/watch?v=zc4cqtibTzs)
 	- [How Kubernetes probes work | ngrok blog](https://ngrok.com/blog/probes)
 	- [Learning about distributed systems: where to start?](https://muratbuffalo.blogspot.com/2020/06/learning-about-distributed-systems.html)
+	- [Consistent Hashing Proofs](https://ch.terabyteoff.com/)
 - Databases and Storage
 	- [How to Write to SSDs](https://arxiv.org/html/2603.09927v3#S1) paper
 	- [BtrLog: Low-Latency Logging for Cloud Database Systems](https://arxiv.org/html/2606.27051v2) paper
@@ -64,9 +66,26 @@
 	- [Making 768 servers look like 1 — PlanetScale](https://planetscale.com/blog/making-768-servers-look-like-1)
 	- [How to ship a database every day](https://turbopuffer.com/blog/control-plane)
 	- [We replaced Redis with MySQL for inventory reservations—and it scaled (2026) - Shopify](https://shopify.engineering/scaling-inventory-reservations)
+	- DStore: A Holistic Key-Value Store Exploring Near-Data Processing and On-Demand Scheduling for Compaction Optimization [ieeexplore.ieee.org](https://ieeexplore.ieee.org/ielx7/6287639/8274985/08481427.pdf?tp=&arnumber=8481427&isnumber=8274985&ref=)
+	- [High-Throughput OLTP in Three Simple Steps](https://tigerbeetle.com/blog/2026-09-17-performant-use-of-tigerbeetle/)
+	- [Design and Implementation of DuckDB Internals – DuckDB](https://duckdb.org/library/design-and-implementation-of-duckdb-internals/)
+	- [Persistent Databases in the Browser with DuckDB-Wasm and OPFS – DuckDB](https://duckdb.org/2026/09/18/opfs-wasm)
+	- [TiDB X Architecture | TiDB Docs](https://docs.pingcap.com/tidbcloud/tidb-x-architecture/)
+	- [How AWS S3 serves 1 petabyte per second on top of slow HDDs](https://bigdata.2minutestreaming.com/p/how-aws-s3-scales-with-tens-of-millions-of-hard-drives)
+	- [Introducing WalShadow: Sub-second Postgres replication to ClickHouse from physical WAL | ClickHouse](https://clickhouse.com/blog/introducing-walshadow)
+	- [ClickHouse/walshadow: Sub-second Postgres replication to ClickHouse using physical WAL](https://github.com/ClickHouse/walshadow)	
+	- [Migrating a Redis Cluster Across Clouds Without Chaos | Charan's](https://charanvasu.com/posts/migrating-redis-cluster-cross-cloud/)
+	- [PostgreSQL 19 Delayed: Key Feature Reversions & Release Updates](https://www.snowflake.com/en/blog/engineering/postgresql-19-release-delay-feature-reverts/)
+	- [Using Postgres as a task queue for rowdy Gophers](https://ente.com/blog/tech/postgres-queue/)
+	- [The Part of PostgreSQL We Hate the Most // Blog // Andy Pavlo - Carnegie Mellon University](https://www.cs.cmu.edu/~pavlo/blog/2023/04/the-part-of-postgresql-we-hate-the-most.html)
+	- [PostgreSQL: Documentation: 18: 26.2. Log-Shipping Standby Servers](https://www.postgresql.org/docs/current/warm-standby.html#CASCADING-REPLICATION)
 - AI Chips manufacturing
 	- [AI Chip Architectures - Jacob Peake](https://www.jacobpeake.com/ai-chip-architectures)
 	- [Chip design from the bottom up – Reiner Pope - YouTube](https://www.youtube.com/watch?v=oIk3R-sMX5o) 
+- [How Compiler Explorer Works in 2025 — Matt Godbolt’s blog](https://xania.org/202506/how-compiler-explorer-works)
+- [A Design Space Exploration of Async/Await](https://cel.cs.brown.edu/blog/design-space-async-await/)
+- [Carlos Asmat - I Went BanaNAS](https://asmat.ca/blog/i-went-bananas/)
+- [What Zig felt like, coming from Rust | besok](https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/)
 - [Static Allocation, Constant Work](https://matklad.github.io/2026/09/02/static-allocation-constant-work.html)
 - [Reliability, constant work, and a good cup of coffee | AWS Builder Center](https://builder.aws.com/content/3F05oqNtNUWxHJ5r6L6I2HrH4rI/reliability-constant-work-and-a-good-cup-of-coffee)
 - [A Design Space Exploration of Async/Await | Cognitive Engineering Lab](https://cel.cs.brown.edu/blog/design-space-async-await/)
@@ -84,6 +103,7 @@
 - [You Don’t Have a GIL Problem — You Have a CPU Problem | by Prashant Pathak | Medium](https://medium.com/@prashant_pathak/you-dont-have-a-gil-problem-you-have-a-cpu-problem-24deeadfea4a)
 - [Python 3.14 garbage collection rigamarole - The Consensus](https://theconsensus.dev/p/2026/06/06/python-3-14-garbage-collection-rigamarole.html)
 - [Pikuma: SIMD in the 90s: Programming Intel's Pentium MMX](https://pikuma.com/blog/programming-intel-pentium-mmx-simd)
+- [The Golden Spike, and Resurrecting the Vale(n) Programming Language](https://verdagon.dev/blog/golden-spike-reviving-vale-valen)
 - [What's the big deal about Deterministic Simulation Testing? | notes.eatonphil.com](https://notes.eatonphil.com/2024-08-20-deterministic-simulation-testing.html)
 - [Almost consensus: ABD and the edges of quorum replication - The Consensus](https://theconsensus.dev/p/2026/08/02/almost-consensus.html)
 	- [Sharing memory robustly in message-passing systems | Journal of the ACM](https://dl.acm.org/doi/10.1145/200836.200869?from_theconsensus=1)
@@ -100,7 +120,5 @@
 	- [Atomic operations and contention | The ryg blog](https://fgiesen.wordpress.com/2014/08/18/atomics-and-contention/)
 	- [Cache coherency primer | The ryg blog](https://fgiesen.wordpress.com/2014/07/07/cache-coherency/)
 - Rust: When Empty Isn't Bottom [ettolrach.com](https://ettolrach.com/blog/rust_when_empty_isnt_bottom.html)
-## Non Technical
-- Coffee
-	- [About | Juno Coffee Club](https://junocoffeeclub.com/about/)
-	- [Tiger Reserve Coffee Beans – Hunkal Estate Coffee](https://www.hunkalestatecoffee.com/products/tiger-reserve-coffee-beans)
+- [Wi-Fi PCAP with mac OS | mrn-cciew](https://mrncciew.com/2025/11/06/wi-fi-pcap-with-mac-os/)
+- [Python | Languages & SDKs | Pulumi Docs](https://www.pulumi.com/docs/iac/languages-sdks/python/)

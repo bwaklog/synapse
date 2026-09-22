@@ -1,0 +1,4 @@
+- [What's brewing in CXL [LWN.net]](https://lwn.net/Articles/1072858/)
+- [Memory in the AI Era, Part 4: Understanding CXL | HyperAccel Tech Blog](https://hyper-accel.github.io/en/posts/what-is-cxl/)
+- [Compute Express Link — The Linux Kernel documentation](https://docs.kernel.org/driver-api/cxl/index.html)
+- [About CXL® - Compute Express Link](https://computeexpresslink.org/about-cxl/)

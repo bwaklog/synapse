@@ -5,6 +5,8 @@
 	- Clang Sanitizers [clang.llvm.org](https://clang.llvm.org/docs/search.html?q=Sanitizer&check_keywords=yes&area=default)
 	- TSan and ASan [www.mono-project.com](https://www.mono-project.com/docs/debug+profile/clang/)
 	- CppCon 2014: Kostya Serebryany "Sanitize your C++ code" [youtu.be](https://youtu.be/V2_80g0eOMc?si=FDQ3j4scuKDwU9eA)
+- [How the GDB debugger and other tools use call frame information to determine the active function calls | Opensource.com](https://opensource.com/article/23/3/gdb-debugger-call-frame-active-function-calls)
+- [Fil-C](https://fil-c.org/)
 - [Write a hash table in C](https://github.com/jamesroutley/write-a-hash-table)
 - [Unix system programming in OCaml](https://ocaml.github.io/ocamlunix/index.html)
 - [Kerkour - Rust vs Go Concurrency models - Stackless vs Stackless coroutines](https://kerkour.com/rust-vs-go-concurrency-models-stackfull-vs-stackless-coroutines)
@@ -14,8 +16,6 @@
 - [An introduction to asynchronous programming and twisted](https://krondo.com/an-introduction-to-asynchronous-programming-and-twisted/)
 - https://www.youtube.com/watch?v=SOqQVoVai6s&t=389s
 - [Kerkour - Cooperative vs Preemptive Scheduling](https://kerkour.com/cooperative-vs-preemptive-scheduling)
-- [Zig's New Async I/O](https://kristoff.it/blog/zig-new-async-io/)
-- [Zig Showtime - 2026 Roadmap](https://www.youtube.com/watch?v=x3hOiOcbgeA)
 - [Don't Forget to Flush](https://www.youtube.com/watch?v=f30PceqQWko)
 - https://www.npopov.com/2020/05/10/Make-LLVM-fast-again.html
 - https://developers.redhat.com/articles/2023/12/07/how-single-iteration-instcombine-improves-llvm-compile-time

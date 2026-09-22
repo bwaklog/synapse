@@ -7,6 +7,8 @@
 - RL is Everything, Everywhere, All at Once [skypilot.ai](https://skypilot.ai/blog/rl-everything)
 - The Illustrated Transformer [jalammar.github.io](https://jalammar.github.io/illustrated-transformer/)
 - [[2605.22850] ObjectCache: Layerwise Object-Storage Retrieval for KV Cache Reuse](https://arxiv.org/abs/2605.22850)
+- [Husky: up to 4.5× faster than MLX](https://husky.underdog.ai/)
+- [What are KV caches really?](https://blog.glennklockwood.com/2026/09/what-are-kv-caches-really.html)
 - Single node inferencing mechanisms
 	- [Inside vLLM: Anatomy of a High-Throughput LLM Inference System | vLLM Blog](https://vllm.ai/blog/2025-09-05-anatomy-of-vllm)
 	- [[2309.06180] Efficient Memory Management for Large Language Model Serving with PagedAttention](https://arxiv.org/abs/2309.06180) and the vLLM paper

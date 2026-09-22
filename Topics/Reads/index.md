@@ -9,3 +9,5 @@
 - The Awesomest 7-Year Postdoc or: How I Learned to Stop Worrying and Love the Tenure-Track Faculty Life [www.scientificamerican.com](https://www.scientificamerican.com/blog/guest-blog/the-awesomest-7-year-postdoc-or-how-i-learned-to-stop-worrying-and-love-the-tenure-track-faculty-life/)
 - How to win a best paper award [nicholas.carlini.com](https://nicholas.carlini.com/writing/2026/how-to-win-a-best-paper-award.html)
 - A Tinkerer’s Guide to Buying Electronic Components in Bangalore [hill9.org](https://hill9.org/journal/2023/08/02/a-tinkerers-guide-to-buying-electronic-components-in-bangalore/)
+- Asking Authors About Their Own Papers | by Transactions on Machine Learning Research | Sep, 2026 | Medium [medium.com/@TmlrOrg](https://medium.com/@TmlrOrg/asking-authors-about-their-own-papers-3d2e04e5dee0)
+- Academic Doomerism [muratbuffalo.blogspot.com](https://muratbuffalo.blogspot.com/2026/09/academic-doomerism.html?m=1)
