@@ -85,6 +85,8 @@
 - [How Compiler Explorer Works in 2025 — Matt Godbolt’s blog](https://xania.org/202506/how-compiler-explorer-works)
 - [A Design Space Exploration of Async/Await](https://cel.cs.brown.edu/blog/design-space-async-await/)
 - [Carlos Asmat - I Went BanaNAS](https://asmat.ca/blog/i-went-bananas/)
+- [A Tale of Two Flink Autoscalers. Samuel Yeboah, Francesco Di Chiara and… | by Netflix Technology Blog | Aug, 2026 | Netflix TechBlog](https://netflixtechblog.com/a-tale-of-two-flink-autoscalers-e9f6a1b1492b)
+- [x86 evolution for segmentation and paging - Christian Ludloff](https://lore.kernel.org/lkml/CAKSQd8WX6xH7=njcGZNNFe8m1xbyhCpX-10cZDw+saWJayWQYA@mail.gmail.com/)
 - [What Zig felt like, coming from Rust | besok](https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/)
 - [Static Allocation, Constant Work](https://matklad.github.io/2026/09/02/static-allocation-constant-work.html)
 - [Reliability, constant work, and a good cup of coffee | AWS Builder Center](https://builder.aws.com/content/3F05oqNtNUWxHJ5r6L6I2HrH4rI/reliability-constant-work-and-a-good-cup-of-coffee)

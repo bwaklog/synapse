@@ -11,3 +11,8 @@
 - A Tinkerer’s Guide to Buying Electronic Components in Bangalore [hill9.org](https://hill9.org/journal/2023/08/02/a-tinkerers-guide-to-buying-electronic-components-in-bangalore/)
 - Asking Authors About Their Own Papers | by Transactions on Machine Learning Research | Sep, 2026 | Medium [medium.com/@TmlrOrg](https://medium.com/@TmlrOrg/asking-authors-about-their-own-papers-3d2e04e5dee0)
 - Academic Doomerism [muratbuffalo.blogspot.com](https://muratbuffalo.blogspot.com/2026/09/academic-doomerism.html?m=1)
+- How to keep enjoying programming in a world of LLMs - Uncategorized - Haskell Community [discourse.haskell.org](https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705)
+- Towards a Theory of Bugs: The Ruliology of the Unexpected—Stephen Wolfram Writings [writings.stephenwolfram.com](https://writings.stephenwolfram.com/2026/07/towards-a-theory-of-bugs-the-ruliology-of-the-unexpected/)
+- A Staff Engineer's Guide to Inventing Work · Sujith Jay Nair [sujithjay.com](https://sujithjay.com/inventing-work)
+- Dynamicland at Harvard [dynamicland.org](https://dynamicland.org/2018/Dynamicland/)
+- Collecting favours • Solving the decision problem [sunilpai.dev](https://sunilpai.dev/posts/collecting-favours/)

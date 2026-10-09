@@ -9,3 +9,4 @@
 - Lindsey Kuper's blog [decomposition.al](https://decomposition.al/)
 - Jeff Preshing's technical blog focusing on CPP and Python and other interesting blogs on programming [preshing.com](https://preshing.com/)
 - Brendan Gregg's Homepage [www.brendangregg.com](https://www.brendangregg.com/index.html)
+- Jack Vanlightly's blogs [jack-vanlightly.com](https://jack-vanlightly.com/)

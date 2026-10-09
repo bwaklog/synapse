@@ -59,3 +59,6 @@
  - The Advantage of Queue on Logs [jack-vanlightly.com](https://jack-vanlightly.com/blog/2023/10/2/the-advantages-of-queues-on-logs)
  - Writing an RPC from Scratch [alexanderell.is](https://alexanderell.is/posts/rpc-from-scratch/)
  - Socket migration for SO_REUSEPORT - Kuniyuki Iwashima [www.youtube.com](https://www.youtube.com/watch?v=7mTH9AHVFvw)
+ - RDMA Explained: The Backbone of High-Performance Computing | DigitalOcean [www.digitalocean.com](https://www.digitalocean.com/community/conceptual-articles/rdma-high-performance-networking)
+ - Homa: The End of TCP for AI Clusters — John Ousterhout, Stanford [youtube.com](https://www.youtube.com/watch?v=eZ8WWZzoaR0)
+ - Homa: A Receiver-Driven Low-Latency Transport Protocol Using Network Priorities [people.csail.mit.edu](https://people.csail.mit.edu/alizadeh/papers/homa-sigcomm18.pdf)

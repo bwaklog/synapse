@@ -137,3 +137,5 @@
 - Meta’s AI Storage Blueprint at Scale [engineering.fb.com](https://engineering.fb.com/2026/07/01/data-infrastructure/metas-ai-storage-blueprint-at-scale/)
 - RisingWave - real time event streaming platform based on S3, a distributed LSM tree based on S3 for storage [foyer-rs.github.io](https://foyer-rs.github.io/foyer/docs/case-study/risingwave)
 - It's always TCP_NODELAY. Every damn time. [brooker.co.za](https://brooker.co.za/blog/2024/05/09/nagle.html)
+- SQL Indexing and Tuning e-Book for developers: Use The Index, Luke covers Oracle, MySQL, PostgreSQL, SQL Server, ... [use-the-index-luke.com](https://use-the-index-luke.com/)
+- A list of learning materials to understand databases internals [github.com/pingcap](https://github.com/pingcap/awesome-database-learning)
