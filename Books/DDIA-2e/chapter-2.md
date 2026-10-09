@@ -1,5 +1,4 @@
 **Materializing and Updating Timelines**
-
 The bluesky blog on lossy timeline generation[^1] and explaining with improvement in tail latency, reducing p99 workload for fanout delivery of posts by 90% and p99 for full post fanout duration reduced
 
 **Average, Medians and Percentiles**
