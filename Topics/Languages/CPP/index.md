@@ -8,3 +8,4 @@
 - Reflection: C++’s Decade-Defining Rocket Engine - Herb Sutter - CppCon 2025 [youtube.com](https://www.youtube.com/watch?v=7z9NNrRDHQU)
 - [stackoverflow.com](https://stackoverflow.com/a/40129198) - How `std::string_view` is faster in a few cases compared to `std::string`. `std::string_view` is an abstraction over `(char *begin, char *end)` pair, `std::string` is just an unnecessary copy.
 - Google Highway - portable SIMD/vector intrinsics [github.com/google](https://github.com/google/highway)
+- Function contract specifiers (since C++26) [cppreference.com](https://en.cppreference.com/cpp/language/functions/function_contract_specifiers)
