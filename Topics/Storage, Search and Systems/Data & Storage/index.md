@@ -94,7 +94,7 @@
 - Learning What the Heck is Inside SQLite [ryanisaacg.com](https://ryanisaacg.com/posts/db-internals-basics.html)
 - To BLOB or Not to BLOB : Large Object Storage in a Database or a Filesystem [paper](https://arxiv.org/pdf/cs/0701168)
 - NULLS! Revisiting NULL Value Representation in Modern Columnar Formats [paper](https://db.cs.cmu.edu/papers/2024/zeng-damon24.pdf
-- https://transactional.blog/notes-on/disaggregated-oltp
+- Disaggregated OLTP Systems [transactional.blog](https://transactional.blog/notes-on/disaggregated-oltp)
 - video by matklad @ tigerbeetle [youtube.com](https://www.youtube.com/watch?v=wM_Rq6gq9L0) 
 - Writing a SQL Database, takes two: Zig and Rocks DB [notes.eatonphil.com](https://notes.eatonphil.com/zigrocks-sql.html)
 - Building a serverless ACID database with one neat trick (atomic PutIfAbsent) [notes.eatonphil.com](https://notes.eatonphil.com/2024-09-29-build-a-serverless-acid-database-with-this-one-neat-trick.html)
@@ -139,3 +139,13 @@
 - It's always TCP_NODELAY. Every damn time. [brooker.co.za](https://brooker.co.za/blog/2024/05/09/nagle.html)
 - SQL Indexing and Tuning e-Book for developers: Use The Index, Luke covers Oracle, MySQL, PostgreSQL, SQL Server, ... [use-the-index-luke.com](https://use-the-index-luke.com/)
 - A list of learning materials to understand databases internals [github.com/pingcap](https://github.com/pingcap/awesome-database-learning)
+- Resumable Remote Compaction in Rocks DB [rocksdb.org](https://rocksdb.org/blog/2026/05/19/resumable-remote-compaction.html)
+- CockroachDB
+	- Life of a Distributed Transaction [docs.cockroachlabs.com](https://docs.cockroachlabs.com/docs/stable/architecture/life-of-a-distributed-transaction)
+	- CockroachDB Internals Data Structures and Algorithms are crucial in [arpitbhayani.me](https://arpitbhayani.me/notes/cockroachdb-internals-data-structures-and-algorithms-are-crucial-in/)
+	- CockroachDB's Architecture Is Kind of Insane [youtu.be](https://youtu.be/jxso9wTBkNg?si=R4h83QfxNNOWGcUd)
+	- CockroachDB: an open source version of Google Spanner [adalab.icm.edu.pl](http://adalab.icm.edu.pl/blog/technology/2014/07/25/cocroachdb.html)
+- Spanner: Google's Globally-Distributed Database [muratbuffalo.blogspot.com](https://muratbuffalo.blogspot.com/2013/07/spanner-googles-globally-distributed_4.html)
+- Mongo Atlas Infinite - Mongo's Disaggregated Storage Architecture
+	- Atlas Infinite: MongoDB's Disaggregated Architectur [muratbuffalo.blogspot.com](https://muratbuffalo.blogspot.com/2026/10/atlas-infinite-mongodbs-disaggregated.html)
+	- The Ground Beneath the Database [www.mongodb.com](https://www.mongodb.com/company/blog/engineering/ground-beneath-database)
