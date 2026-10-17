@@ -1,0 +1,7 @@
+- How query engines work [howqueryengineswork.com](https://howqueryengineswork.com)
+- Two years of vector search at Notion: 10x scale, 1/10th cost [notion.com](https://www.notion.com/blog/two-years-of-vector-search-at-notion)
+- Build Vector Search Inside a SQL Database [skyzh.github.io](https://skyzh.github.io/vector-db-from-scratch/00-introduction.html)
+- What two months with the Comet community got our Spark workload on Amazon EKS [datafusion.apache.org](https://datafusion.apache.org/blog/2026/06/03/comet-eks/) about co-optimising datafusion comet for real workloads
+- SQL Indexing and Tuning e-Book for developers: Use The Index, Luke covers Oracle, MySQL, PostgreSQL, SQL Server, ... [use-the-index-luke.com](https://use-the-index-luke.com/)
+- HyperLogLog [en.wikipedia.org](https://en.wikipedia.org/wiki/HyperLogLog)
+- Organization and maintenance of large ordered indices (Original paper) [dl.acm.org](https://dl.acm.org/doi/pdf/10.1145/1734663.1734671)

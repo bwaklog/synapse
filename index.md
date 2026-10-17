@@ -1,9 +1,9 @@
 # Linkstash Topics
 - Storage, Search and Systems related content ([[Topics/Storage, Search and Systems/index|link]])
 - Languages and parsers related content ([[Topics/Languages/index|link]]) (uncategorised)
-	- Rust related links ([[Topics/Languages/Rust/index|link]])
-	- Go Lang related ([[Topics/Languages/Golang/index|link]])
-- Cryptography related content ([[Topics/Cryptography/index|index]])
+	- Rust related links ([[Rust|link]])
+	- Go Lang related ([[Golang|link]])
+- Cryptography related content ([[cryptography|Cryptography]])
 - General uncategorised tech related links ([[Topics/Uncategorised/index|link]])
 - arxiv/catchup [link](https://arxiv.org/catchup)
 
